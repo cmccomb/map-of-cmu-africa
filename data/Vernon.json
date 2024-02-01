@@ -246,6 +246,11 @@
         "citation": ""
     },
     {
+        "title": "Cognitive Robotics",
+        "pub_year": "2021",
+        "citation": "Encyclopedia of Robotics; Springer: Berlin/Heidelberg, Germany, 2021"
+    },
+    {
         "title": "Cognitive Systems Monographs",
         "citation": "(No Title), 0"
     },
@@ -253,11 +258,6 @@
         "title": "Cognitive Vision",
         "pub_year": "2021",
         "citation": "Computer Vision: A Reference Guide, 164-167, 2021"
-    },
-    {
-        "title": "Cognitive robotics",
-        "pub_year": "2021",
-        "citation": "Encyclopedia of Robotics; Springer: Berlin/Heidelberg, Germany, 2021"
     },
     {
         "title": "Cognitive system",
@@ -853,7 +853,7 @@
     {
         "title": "The Importance of Being Humanoid",
         "pub_year": "2023",
-        "citation": "International Journal of Humanoid Robotics, 2023"
+        "citation": "International Journal of Humanoid Robotics, 2350022, 2023"
     },
     {
         "title": "The Nature of Cognition",

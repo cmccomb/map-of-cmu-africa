@@ -613,8 +613,8 @@
     },
     {
         "title": "Probabilistic cost enforcement of security policies",
-        "pub_year": "2013",
-        "citation": "Security and Trust Management: 9th International Workshop, STM 2013, Egham …, 2013"
+        "pub_year": "2015",
+        "citation": "Journal of Computer Security 23 (6), 759-787, 2015"
     },
     {
         "title": "Proceedings of the 6th International Conference on Principles of Security and Trust-Volume 10204",
@@ -625,11 +625,6 @@
         "title": "Proceedings of the Tenth USENIX Conference on Usable Privacy and Security",
         "pub_year": "2014",
         "citation": "USENIX Association, 2014"
-    },
-    {
-        "title": "RS-Del: Edit Distance Robustness Certificates for Sequence Classifiers via Randomized Deletion",
-        "pub_year": "2023",
-        "citation": "Thirty-seventh Conference on Neural Information Processing Systems, 2023"
     },
     {
         "title": "Randomness in ML Defenses Helps Persistent Attackers and Hinders Evaluators",
@@ -645,6 +640,11 @@
         "title": "Riding out DOMsday: Towards detecting and preventing DOM cross-site scripting",
         "pub_year": "2018",
         "citation": "2018 Network and Distributed System Security Symposium (NDSS), 2018"
+    },
+    {
+        "title": "Rs-del: Edit distance robustness certificates for sequence classifiers via randomized deletion",
+        "pub_year": "2023",
+        "citation": "Thirty-seventh Conference on Neural Information Processing Systems, 2023"
     },
     {
         "title": "Run-time enforcement of information-flow properties on Android",
@@ -749,14 +749,14 @@
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2012"
     },
     {
-        "title": "The Impact of Exposed Passwords on Honeyword Efficacy",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.10323, 2023"
-    },
-    {
         "title": "The effectiveness of security images in internet banking",
         "pub_year": "2014",
         "citation": "IEEE Internet Computing 19 (1), 54-62, 2014"
+    },
+    {
+        "title": "The impact of exposed passwords on honeyword efficacy",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.10323, 2023"
     },
     {
         "title": "The impact of length and mathematical operators on the usability and security of system-assigned one-time PINs",
@@ -857,6 +857,11 @@
         "title": "What makes people install a COVID-19 contact-tracing app? Understanding the influence of app design and individual difference on contact-tracing app adoption intention",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2012.12415, 2020"
+    },
+    {
+        "title": "What matters to users?",
+        "pub_year": "2013",
+        "citation": "Proceedings of the Ninth Symposium on Usable Privacy and Security, 2013"
     },
     {
         "title": "What matters to users? Factors that affect users' willingness to share information with online advertisers",
