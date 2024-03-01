@@ -68,6 +68,11 @@
         "citation": ""
     },
     {
+        "title": "Investigating the Challenges Companies in Rwanda Face when Implementing Zero-Trust Network",
+        "pub_year": "2023",
+        "citation": "2023 10th International Conference on Future Internet of Things and Cloud …, 2023"
+    },
+    {
         "title": "Low time complexity model for email spam detection using logistic regression",
         "pub_year": "2021",
         "citation": "International Journal of Advanced Computer Science and Applications 12 (12), 2021"
@@ -121,6 +126,11 @@
         "title": "UnPhishMe: Phishing attack detection by deceptive login simulation through an Android mobile app",
         "pub_year": "2017",
         "citation": "2017 12th Asia Joint Conference on Information Security (AsiaJCIS), 38-47, 2017"
+    },
+    {
+        "title": "Uncovering SMS Spam in Swahili Text Using Deep Learning Approaches",
+        "pub_year": "2024",
+        "citation": "IEEE Access, 2024"
     },
     {
         "title": "Validation Agents and Persuasive Designs for Phishing Detection and Update Compliance on Smartphones",

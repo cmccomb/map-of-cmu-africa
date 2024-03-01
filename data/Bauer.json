@@ -627,6 +627,11 @@
         "citation": "USENIX Association, 2014"
     },
     {
+        "title": "RS-Del: Edit distance robustness certificates for sequence classifiers via randomized deletion",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+    },
+    {
         "title": "Randomness in ML Defenses Helps Persistent Attackers and Hinders Evaluators",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.13464, 2023"
@@ -640,11 +645,6 @@
         "title": "Riding out DOMsday: Towards detecting and preventing DOM cross-site scripting",
         "pub_year": "2018",
         "citation": "2018 Network and Distributed System Security Symposium (NDSS), 2018"
-    },
-    {
-        "title": "Rs-del: Edit distance robustness certificates for sequence classifiers via randomized deletion",
-        "pub_year": "2023",
-        "citation": "Thirty-seventh Conference on Neural Information Processing Systems, 2023"
     },
     {
         "title": "Run-time enforcement of information-flow properties on Android",
@@ -727,12 +727,17 @@
     {
         "title": "Speculative privacy concerns about AR glasses data collection",
         "pub_year": "2023",
-        "citation": "Proceedings on Privacy Enhancing Technologies 4, 416-435, 2023"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2023"
     },
     {
         "title": "Studying access-control usability in the lab: lessons learned from four studies",
         "pub_year": "2012",
         "citation": "Proceedings of the 2012 Workshop on Learning from Authoritative Security …, 2012"
+    },
+    {
+        "title": "Subspace Grid-sweep: ML Defense Evaluation via Constrained Brute-force Search",
+        "pub_year": "2023",
+        "citation": ""
     },
     {
         "title": "Supplementary Material: A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats",
