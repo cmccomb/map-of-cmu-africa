@@ -5,11 +5,6 @@
         "citation": "情報処理学会論文誌 60 (12), 2019"
     },
     {
-        "title": "A Multi-Modal Wireless Sensor System for River Monitoring: A Case for Kikuletwa River Floods in Tanzania",
-        "pub_year": "2023",
-        "citation": "Sensors 23 (8), 4055, 2023"
-    },
-    {
         "title": "A comparative study of smartphone-user security perception and preference towards redesigned security notifications",
         "pub_year": "2018",
         "citation": "Proceedings of the Second African Conference for Human Computer Interaction …, 2018"
@@ -18,6 +13,11 @@
         "title": "A demographic perspective of smartphone security and its redesigned notifications",
         "pub_year": "2019",
         "citation": "Journal of Information Processing 27, 773-786, 2019"
+    },
+    {
+        "title": "A multi-modal wireless sensor system for river monitoring: A case for Kikuletwa river floods in Tanzania",
+        "pub_year": "2023",
+        "citation": "Sensors 23 (8), 4055, 2023"
     },
     {
         "title": "A pyramid algorithm for the Haar discrete wavelet packet transform",
@@ -52,7 +52,7 @@
     {
         "title": "Assessment of how users perceive the usage of biometric technology applications",
         "pub_year": "2022",
-        "citation": "Recent Advances in Biometrics, 45, 2022"
+        "citation": "Recent Advances in Biometrics, 2022"
     },
     {
         "title": "Big data analytics framework for childhood infectious disease surveillance and response system using modified MapReduce algorithm",
@@ -171,17 +171,17 @@
     {
         "title": "Supporting User Adherence to Weight Loss Behavior Change through Smartphone Applications",
         "pub_year": "2018",
-        "citation": "(No Title), 2018"
-    },
-    {
-        "title": "The Application of Online and Blended Learning During Outbreaks, Epidemics and Pandemics: The Case of Higher Education Institutions (HEIs)",
-        "pub_year": "2023",
-        "citation": "Pandemic Pedagogy: Preparedness in Uncertain Times, 147-161, 2023"
+        "citation": "奈良先端科学技術大学院大学, 2018"
     },
     {
         "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2309.00226, 2023"
+    },
+    {
+        "title": "The application of online and blended learning during outbreaks, epidemics and pandemics: The case of higher education institutions (HEIs)",
+        "pub_year": "2023",
+        "citation": "Pandemic Pedagogy: Preparedness in Uncertain Times 49, 147-161, 2023"
     },
     {
         "title": "The challenges of adopting M-learning assistive technologies for visually impaired learners in higher learning institution in Tanzania",

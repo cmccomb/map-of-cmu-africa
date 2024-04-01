@@ -4,11 +4,6 @@
         "citation": ""
     },
     {
-        "title": "10 Cognitive Architectures",
-        "pub_year": "2022",
-        "citation": "Cognitive Robotics, 191, 2022"
-    },
-    {
         "title": "2d binaural sound localization: for urban search and rescue robotics",
         "pub_year": "2010",
         "citation": "Mobile Robotics: Solutions and Challenges, 423-435, 2010"
@@ -73,6 +68,10 @@
         "title": "A Research Roadmap",
         "pub_year": "2011",
         "citation": "A Roadmap for Cognitive Development in Humanoid Robots, 101-119, 2011"
+    },
+    {
+        "title": "A Robot Systen for Automatic Hire Crimping.",
+        "citation": ""
     },
     {
         "title": "A conceptual framework for developmental cognitive systems",
@@ -152,7 +151,7 @@
     {
         "title": "An Optical Hand Pose Tracking System",
         "pub_year": "1993",
-        "citation": "University of Dublin, Trinity College Dublin, Department of Computer Science …, 1993"
+        "citation": "TCD, Department of Computer Science, School of Engineering, 1993"
     },
     {
         "title": "An analysis of strategies to reduce computational complexity and processing time in industrial optical data processing and analysis",
@@ -214,7 +213,7 @@
         "citation": ""
     },
     {
-        "title": "Bridging Ideomotor Theory and Autonomous Development with Perceptuo-Motor Memory",
+        "title": "Bridging ideomotor theory and autonomous development with perceptuo-motor memory",
         "pub_year": "2015",
         "citation": "System 2, F2, 2015"
     },
@@ -246,11 +245,6 @@
         "citation": ""
     },
     {
-        "title": "Cognitive Robotics",
-        "pub_year": "2021",
-        "citation": "Encyclopedia of Robotics; Springer: Berlin/Heidelberg, Germany, 2021"
-    },
-    {
         "title": "Cognitive Systems Monographs",
         "citation": "(No Title), 0"
     },
@@ -258,6 +252,11 @@
         "title": "Cognitive Vision",
         "pub_year": "2021",
         "citation": "Computer Vision: A Reference Guide, 164-167, 2021"
+    },
+    {
+        "title": "Cognitive robotics",
+        "pub_year": "2021",
+        "citation": "Encyclopedia of Robotics, 1-7, 2021"
     },
     {
         "title": "Cognitive system",
@@ -287,7 +286,7 @@
     {
         "title": "Computational models of cognition",
         "pub_year": "2011",
-        "citation": "A Roadmap for Cognitive Development in Humanoid Robots, 81-99, 2011"
+        "citation": "A roadmap for cognitive development in humanoid robots, 81-99, 2011"
     },
     {
         "title": "Computer Science: At the Cross-Roads of Humanity",
@@ -392,7 +391,7 @@
     {
         "title": "Embodied cognition and circular causality: on the role of constitutive autonomy in the reciprocal coupling of perception and action",
         "pub_year": "2015",
-        "citation": "Frontiers in psychology 6, 1660, 2015"
+        "citation": "Frontiers in psychology 6, 159741, 2015"
     },
     {
         "title": "Embodiment",
@@ -424,7 +423,7 @@
         "citation": ""
     },
     {
-        "title": "Estimation of Optical Flow using the Fourier Transform",
+        "title": "Estimation of optical flow using the Fourier transform",
         "citation": "Proceedings of the First Irish Machine Vision and Image Processing …, 0"
     },
     {
@@ -476,7 +475,7 @@
         "citation": ""
     },
     {
-        "title": "IEEE Transactions on Cognitive and Developmental Systems",
+        "title": "IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS",
         "citation": ""
     },
     {
@@ -515,7 +514,7 @@
     {
         "title": "Industrial priorities for cognitive robotics",
         "pub_year": "2017",
-        "citation": "RockEU2 Deliverable D 3, 1, 2017"
+        "citation": "Deliverable D-3.1, RockEU2-Robotics Coordination Action for Europe Two, 2017"
     },
     {
         "title": "Instantaneous Optical Flow",
@@ -528,13 +527,14 @@
         "citation": "Physics of Life Reviews 30, 122-125, 2019"
     },
     {
-        "title": "Interpreting Ashby–But which One?",
+        "title": "Interpreting Ashby–But which One",
         "pub_year": "2013",
         "citation": "Constructivist Foundations 9 (1), 111-113, 2013"
     },
     {
         "title": "Introduction to Cognitive Robotics",
-        "citation": ""
+        "pub_year": "2009",
+        "citation": "Conference on Mobile Robots (ECMR) 117, 122, 2009"
     },
     {
         "title": "KOW-LINEAR SPATIAL WARPING APPLIED TO THE 6ENERATÈ0N OF POST-PERFUSlOf* NUCLEAR HFDICiNE AEROSOL VENTILATION IMA6ES.",
@@ -664,6 +664,11 @@
         "citation": "50 Years of Artificial Intelligence: Essays Dedicated to the 50th …, 2007"
     },
     {
+        "title": "Physics for understanding life",
+        "pub_year": "2024",
+        "citation": "EPS Grand Challenges: Physics for Society in the Horizon 2050, 2024"
+    },
+    {
         "title": "Pose estimation for objects with planar surfaces using eigenimage and range data analysis",
         "pub_year": "2007",
         "citation": "Machine Vision and Applications 18, 355-365, 2007"
@@ -703,11 +708,6 @@
         "citation": "ESPRIT Workshop on Autopoiesis and Perception, Dublin (Dublin City University), 1992"
     },
     {
-        "title": "Realizing the Potential of AI in Africa",
-        "pub_year": "2022",
-        "citation": "Towards Trustworthy Artificial Intelligence Systems, MI Aldinhas Ferreira …, 2022"
-    },
-    {
         "title": "Realizing the Potential of AI in Africa: It All Turns on Trust",
         "pub_year": "2022",
         "citation": "Towards Trustworthy Artificial Intelligent Systems, 179-192, 2022"
@@ -737,7 +737,7 @@
         "citation": "Speculation on Virtual Surfaces in Machine Vision Systems, 1997"
     },
     {
-        "title": "Rendering Virtual Environments From Photographs: An Autonomous, Image based Approach For Telepresence Applications",
+        "title": "Rendering Virtual Environments From Photographs: An Autonomous, Image {based Approach For Telepresence Applications",
         "pub_year": "1998",
         "citation": "Master's thesis, Dept. of Computer Science, Clemson University, 1998"
     },
@@ -790,11 +790,6 @@
         "title": "Sensing-enhanced therapy system for assessing children with autism spectrum disorders: A feasibility study",
         "pub_year": "2018",
         "citation": "IEEE Sensors Journal 19 (4), 1508-1518, 2018"
-    },
-    {
-        "title": "Simple Pinhole Camera Calibration",
-        "pub_year": "1991",
-        "citation": "TCD, Department of Computer Science, School of Engineering, 1991"
     },
     {
         "title": "Simple pinhole camera calibration",

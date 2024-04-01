@@ -17,7 +17,7 @@
     {
         "title": "Analyzing social influence in recommender systems",
         "pub_year": "2020",
-        "citation": "Wien, 2020"
+        "citation": "Technische Universität Wien, 2020"
     },
     {
         "title": "Analyzing the impact of social connections on rating behavior in social recommender systems",
@@ -35,9 +35,14 @@
         "citation": "2014 10th International Conference on Natural Computation (ICNC), 480-485, 2014"
     },
     {
+        "title": "ECG-Signals-based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers",
+        "pub_year": "2024",
+        "citation": "2024 IEEE 22nd World Symposium on Applied Machine Intelligence and …, 2024"
+    },
+    {
         "title": "Fairness and diversity in social-based recommender systems",
         "pub_year": "2020",
-        "citation": "Adjunct Publication of the 28th ACM Conference on User Modeling, Adaptation …, 2020"
+        "citation": "Adjunct publication of the 28th ACM conference on user modeling, adaptation …, 2020"
     },
     {
         "title": "IT-Aided Forecasting Model for Malaria Spread for the Developing World",
