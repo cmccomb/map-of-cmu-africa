@@ -60,6 +60,11 @@
         "citation": "W3C Workshop on Declarative Languages for Distributed Web Applications, 2007"
     },
     {
+        "title": "Collage: A Declarative Programming Model for Compositional Development of Web Applications",
+        "pub_year": "2009",
+        "citation": "Human-Computer Interaction. New Trends: 13th International Conference, HCI …, 2009"
+    },
+    {
         "title": "Computer-Aided Design of User Interfaces III: Proceedings of the Thourth International Conference on Computer-Aided Design of User Interfaces, 15-17 May 2002, Valenciennes …",
         "pub_year": "2002",
         "citation": "Springer Science & Business Media, 2002"
@@ -243,6 +248,11 @@
         "title": "Planning for Goal-Oriented Dialogue Systems",
         "pub_year": "2019",
         "citation": "https://arxiv.org/abs/1910.08137, 2019"
+    },
+    {
+        "title": "Planning for goal-oriented dialogue systems",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1910.08137, 2019"
     },
     {
         "title": "Pose detection using depth camera",

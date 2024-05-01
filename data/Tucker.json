@@ -576,6 +576,11 @@
         "citation": "Journal of Mechanical Design 141 (11), 110301, 2019"
     },
     {
+        "title": "Machine learning for real-time detection of local heat accumulation in metal additive manufacturing",
+        "pub_year": "2024",
+        "citation": "Materials & Design, 112933, 2024"
+    },
+    {
         "title": "Mining End-of-Life Materials Suitable for Material Resynthesis and Discovering New Application Domains",
         "pub_year": "2014",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2014"
@@ -599,6 +604,11 @@
         "title": "Mining for creativity: Determining the creativity of ideas through data mining techniques",
         "pub_year": "2017",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2017"
+    },
+    {
+        "title": "Mitigating Cascading Effects in Large Adversarial Graph Environments",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.14418, 2024"
     },
     {
         "title": "Mitigating online product rating biases through the discovery of optimistic, pessimistic, and realistic reviewers",

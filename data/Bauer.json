@@ -181,6 +181,10 @@
         "citation": "IJCSNS 12 (8), 1, 2012"
     },
     {
+        "title": "CoCoT: Collaborative Contact Tracing (Extended Version)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
         "title": "Comparing access-control technologies: A study of keys and smartphones",
         "pub_year": "2007",
         "citation": "Technical Report CMU-CYLAB-07-005, Carnegie Mellon University, 2007"
@@ -742,6 +746,10 @@
         "title": "Tag, you can see it! Using tags for access control in photo sharing",
         "pub_year": "2012",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2012"
+    },
+    {
+        "title": "The Penn-CMU Digital Health Privacy Initiative",
+        "citation": ""
     },
     {
         "title": "The effectiveness of security images in internet banking",
