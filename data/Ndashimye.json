@@ -2,111 +2,162 @@
     {
         "title": "31st International Conference on Information Networking· ICOIN 2017",
         "pub_year": "2017",
-        "citation": "International Conference on Information Networking (ICOIN 2017), 2017"
+        "citation": "International Conference on Information Networking (ICOIN 2017), 2017",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "A Multi-criteria based handover algorithm for vehicle-to-infrastructure communications",
         "pub_year": "2021",
-        "citation": "Computer Networks 185, 107652, 2021"
+        "citation": "Computer Networks 185, 107652, 2021",
+        "num_citations": 24,
+        "author_pub_id": "6y_k3EgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "A mobility-aware network selection method for vehicle-to-infrastructure communication over LTE-A multi-tier networks",
         "pub_year": "2017",
-        "citation": "2017 International conference on information networking (ICOIN), 315-320, 2017"
+        "citation": "2017 International conference on information networking (ICOIN), 315-320, 2017",
+        "num_citations": 8,
+        "author_pub_id": "6y_k3EgAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "A network selection method for handover in vehicle-to-infrastructure communications in multi-tier networks",
         "pub_year": "2020",
-        "citation": "Wireless Networks 26 (1), 387-401, 2020"
+        "citation": "Wireless Networks 26 (1), 387-401, 2020",
+        "num_citations": 31,
+        "author_pub_id": "6y_k3EgAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "A novel network selection mechanism for vehicle-to-infrastructure communication",
         "pub_year": "2016",
-        "citation": "2016 IEEE 14th Intl Conf on Dependable, Autonomic and Secure Computing, 14th …, 2016"
+        "citation": "2016 IEEE 14th Intl Conf on Dependable, Autonomic and Secure Computing, 14th …, 2016",
+        "num_citations": 30,
+        "author_pub_id": "6y_k3EgAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "A trust-based routing framework for the internet of things",
         "pub_year": "2017",
-        "citation": "Auckland University of Technology, 2017"
+        "citation": "Auckland University of Technology, 2017",
+        "num_citations": 6,
+        "author_pub_id": "6y_k3EgAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Adopting a Neuro-Fuzzy Logic Method for Fall Armyworm Detection and Monitoring Using C-Band Polarimetric Doppler Weather Radar with Field Verification",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Geoscience and Remote Sensing, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "An Embedded Fuzzy Logic Based Smart Street Lighting System",
         "pub_year": "2022",
-        "citation": "2022 IEEE Nigeria 4th International Conference on Disruptive Technologies …, 2022"
+        "citation": "2022 IEEE Nigeria 4th International Conference on Disruptive Technologies …, 2022",
+        "num_citations": 4,
+        "author_pub_id": "6y_k3EgAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "An Ensemble Mode Decomposition Combined with SVR-RF Model for Prediction of Groundwater Level: The Case of Eastern Rwandan Aquifers",
         "pub_year": "2022",
-        "citation": "Computer Science On-line Conference, 312-328, 2022"
+        "citation": "Computer Science On-line Conference, 312-328, 2022",
+        "num_citations": 3,
+        "author_pub_id": "6y_k3EgAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "An IoT-alert system for chronic asthma patients",
         "pub_year": "2020",
-        "citation": "2020 11th IEEE Annual Information Technology, Electronics and Mobile …, 2020"
+        "citation": "2020 11th IEEE Annual Information Technology, Electronics and Mobile …, 2020",
+        "num_citations": 5,
+        "author_pub_id": "6y_k3EgAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Bird Sound Classification Using GLCM Features and LightGBM Applied to Farm Monitoring",
         "pub_year": "2023",
-        "citation": "2023 11th International Conference on Intelligent Computing and Wireless …, 2023"
+        "citation": "2023 11th International Conference on Intelligent Computing and Wireless …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Efficient handover methods for vehicle-to-infrastructure communications over heterogeneous wireless networks",
         "pub_year": "2018",
-        "citation": "Auckland University of Technology, 2018"
+        "citation": "Auckland University of Technology, 2018",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Ground clutter mitigation and insect signature detection for polarimetric C-band doppler weather radar",
         "pub_year": "2021",
-        "citation": "2021 IEEE Global Humanitarian Technology Conference (GHTC), 289-296, 2021"
+        "citation": "2021 IEEE Global Humanitarian Technology Conference (GHTC), 289-296, 2021",
+        "num_citations": 3,
+        "author_pub_id": "6y_k3EgAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Intelligent Irrigation, Fertilization, Post-Harvest Management with IoT Technology: Challenges and Setbacks",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Intelligent Irrigation, Fertilization, Post-Harvest Management with IoT Technology: Challenges and Setbacks",
         "pub_year": "2022",
-        "citation": "AMA, Agricultural Mechanization in Asia, Africa and Latin America 53 (05 …, 2022"
+        "citation": "AMA, Agricultural Mechanization in Asia, Africa and Latin America 53 (05 …, 2022",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "IoT application for water tank quality and level monitoring system: case study of Kigali City",
         "pub_year": "2022",
-        "citation": "College of science and Technology, 2022"
+        "citation": "College of science and Technology, 2022",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "IoT based monitoring system for authorized retail freezer contents for beverage companies",
         "pub_year": "2021",
-        "citation": "College of Science and Technology, 2021"
+        "citation": "College of Science and Technology, 2021",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "PEGADyn: A Cluster-Based Energy Efficient Routing Protocol for Ad Hoc Networks",
         "pub_year": "2018",
-        "citation": "2018 28th International Telecommunication Networks and Applications …, 2018"
+        "citation": "2018 28th International Telecommunication Networks and Applications …, 2018",
+        "num_citations": 1,
+        "author_pub_id": "6y_k3EgAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Signal Preprocessing Towards IoT Acoustic Data for Farm Pest Detection",
         "pub_year": "2023",
-        "citation": "IEEE Xplore, 2023"
+        "citation": "IEEE Xplore, 2023",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Signal Preprocessing Towards IoT Acoustic Data for Farm Pest Detection",
         "pub_year": "2023",
-        "citation": "IEEE EUROCON 2023-20th International Conference on Smart Technologies, 78-83, 2023"
+        "citation": "IEEE EUROCON 2023-20th International Conference on Smart Technologies, 78-83, 2023",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Smart Car Parking System in Rwanda",
         "pub_year": "2020",
-        "citation": "International Workshop Soft Computing Applications, 201-223, 2020"
+        "citation": "International Workshop Soft Computing Applications, 201-223, 2020",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Smart soil monitoring application (Case Study: Rwanda)",
         "pub_year": "2021",
-        "citation": "Advances in Information and Communication: Proceedings of the 2021 Future of …, 2021"
+        "citation": "Advances in Information and Communication: Proceedings of the 2021 Future of …, 2021",
+        "num_citations": 1,
+        "author_pub_id": "6y_k3EgAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Vehicle-to-infrastructure communication over multi-tier heterogeneous networks: A survey",
         "pub_year": "2017",
-        "citation": "Computer networks 112, 144-166, 2017"
+        "citation": "Computer networks 112, 144-166, 2017",
+        "num_citations": 118,
+        "author_pub_id": "6y_k3EgAAAAJ:2osOgNQ5qMEC"
     }
 ]
