@@ -1,128 +1,180 @@
 [
     {
         "title": "A Hybrid Topology For Next Generation 5G Dense HetNets",
-        "citation": "Terrain 100, 6, 0"
+        "citation": "Terrain 100, 6, 0",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "A Machine Learning Approach to Temporal Traffic-Aware Energy-Efficient Cellular Networks",
         "pub_year": "2020",
-        "citation": "2020 11th IEEE Annual Ubiquitous Computing, Electronics & Mobile …, 2020"
+        "citation": "2020 11th IEEE Annual Ubiquitous Computing, Electronics & Mobile …, 2020",
+        "num_citations": 1,
+        "author_pub_id": "LMW7_-YAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "A Power Sharing Scheme for the Yaka Prepaid Power System in Uganda",
         "pub_year": "2024",
-        "citation": "2024 IEEE 8th Energy Conference (ENERGYCON), 1-6, 2024"
+        "citation": "2024 IEEE 8th Energy Conference (ENERGYCON), 1-6, 2024",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "A spatio-temporal sleep mode approach to improve energy efficiency in small cell DenseNets",
         "pub_year": "2021",
-        "citation": "SAIEE Africa Research Journal 112 (3), 134-141, 2021"
+        "citation": "SAIEE Africa Research Journal 112 (3), 134-141, 2021",
+        "num_citations": 4,
+        "author_pub_id": "LMW7_-YAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "A survey of 5G for rural broadband connectivity",
         "pub_year": "2021",
-        "citation": "2021 IST-Africa Conference (IST-Africa), 1-10, 2021"
+        "citation": "2021 IST-Africa Conference (IST-Africa), 1-10, 2021",
+        "num_citations": 6,
+        "author_pub_id": "LMW7_-YAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "An Internet of Things-Based Smart Water Meter with Machine Learning-Aided Water Quality Assessment",
         "pub_year": "2023",
-        "citation": "2023 IEEE AFRICON, 1-6, 2023"
+        "citation": "2023 IEEE AFRICON, 1-6, 2023",
+        "num_citations": 1,
+        "author_pub_id": "LMW7_-YAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Capacity and energy efficiency analysis of dense HetNets with biasing",
         "pub_year": "2015",
-        "citation": "2015 IEEE 26th Annual International Symposium on Personal, Indoor, and …, 2015"
+        "citation": "2015 IEEE 26th Annual International Symposium on Personal, Indoor, and …, 2015",
+        "num_citations": 1,
+        "author_pub_id": "LMW7_-YAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Cooperative spectrum sensing for green cognitive femtocell network",
         "pub_year": "2013",
-        "citation": "2013 IEEE 24th Annual International Symposium on Personal, Indoor, and …, 2013"
+        "citation": "2013 IEEE 24th Annual International Symposium on Personal, Indoor, and …, 2013",
+        "num_citations": 10,
+        "author_pub_id": "LMW7_-YAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Deployment optimization of small cell networks with sleep mode",
         "pub_year": "2019",
-        "citation": "IEEE transactions on vehicular technology 68 (10), 10174-10186, 2019"
+        "citation": "IEEE transactions on vehicular technology 68 (10), 10174-10186, 2019",
+        "num_citations": 12,
+        "author_pub_id": "LMW7_-YAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Energy efficient deployment of dense heterogeneous cellular networks",
         "pub_year": "2015",
-        "citation": "2015 IEEE Global Communications Conference (GLOBECOM), 1-6, 2015"
+        "citation": "2015 IEEE Global Communications Conference (GLOBECOM), 1-6, 2015",
+        "num_citations": 14,
+        "author_pub_id": "LMW7_-YAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Enhancing Energy Efficiency in Distributed Antenna Systems via Sleep Mode",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Green Communications: Large vs Small Cell Deployment",
         "pub_year": "2015",
-        "citation": "e-Infrastructure and e-Services for Developing Countries: 6th International …, 2015"
+        "citation": "e-Infrastructure and e-Services for Developing Countries: 6th International …, 2015",
+        "num_citations": 1,
+        "author_pub_id": "LMW7_-YAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Green heterogeneous cellular networks",
         "pub_year": "2016",
-        "citation": "PQDT-UK & Ireland, 2016"
+        "citation": "PQDT-UK & Ireland, 2016",
+        "num_citations": 2,
+        "author_pub_id": "LMW7_-YAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "International Journal of Technoscience and Development (IJTD)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Internet in Africa?:(A) bort,(R) etry,(F) ail; a compilation of three years experience working with community wireless networks in Africa",
         "pub_year": "2009",
-        "citation": "IT46, Åkersberga, SE, 2009"
+        "citation": "IT46, Åkersberga, SE, 2009",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Leveraging TV white spaces for rural broadband connectivity",
         "pub_year": "2021",
-        "citation": "2021 IST-Africa Conference (IST-Africa), 1-8, 2021"
+        "citation": "2021 IST-Africa Conference (IST-Africa), 1-8, 2021",
+        "num_citations": 1,
+        "author_pub_id": "LMW7_-YAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Location and Density Optimisation of a Two-Tier NOMA-Based 5G HetNet",
         "pub_year": "2023",
-        "citation": "2023 IEEE AFRICON, 1-6, 2023"
+        "citation": "2023 IEEE AFRICON, 1-6, 2023",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Machine learning based driver monitoring system: A case study for the Kayoola EVS",
         "pub_year": "2023",
-        "citation": "SAIEE Africa Research Journal 114 (2), 40-48, 2023"
+        "citation": "SAIEE Africa Research Journal 114 (2), 40-48, 2023",
+        "num_citations": 3,
+        "author_pub_id": "LMW7_-YAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "SAIEE Africa Research Journal",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "SAIEE Africa Research Journal",
         "pub_year": "2021",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "SAIEE Africa Research Journal",
         "pub_year": "2020",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Sleep mode mechanisms in dense small cell networks",
         "pub_year": "2015",
-        "citation": "2015 IEEE International Conference on Communications (ICC), 192-197, 2015"
+        "citation": "2015 IEEE International Conference on Communications (ICC), 192-197, 2015",
+        "num_citations": 33,
+        "author_pub_id": "LMW7_-YAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Smart metering technologies for mini grids in Africa: An Overview",
         "pub_year": "2021",
-        "citation": "2021 IEEE PES/IAS PowerAfrica, 1-5, 2021"
+        "citation": "2021 IEEE PES/IAS PowerAfrica, 1-5, 2021",
+        "num_citations": 4,
+        "author_pub_id": "LMW7_-YAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Spectral and energy efficiency analysis of dense small cell networks",
         "pub_year": "2015",
-        "citation": "2015 IEEE 81st Vehicular Technology Conference (VTC Spring), 1-5, 2015"
+        "citation": "2015 IEEE 81st Vehicular Technology Conference (VTC Spring), 1-5, 2015",
+        "num_citations": 16,
+        "author_pub_id": "LMW7_-YAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "The case for Sleep Mode in Distributed Antenna Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "User association in energy-aware dense heterogeneous cellular networks",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Wireless Communications 16 (3), 1713-1726, 2017"
+        "citation": "IEEE Transactions on Wireless Communications 16 (3), 1713-1726, 2017",
+        "num_citations": 18,
+        "author_pub_id": "LMW7_-YAAAAJ:UeHWp8X0CEIC"
     }
 ]

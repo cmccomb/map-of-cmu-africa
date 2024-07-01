@@ -2,66 +2,99 @@
     {
         "title": "A Data Management Model for Malaria Control: A Case of Rwanda",
         "pub_year": "2023",
-        "citation": "2023 IEEE AFRICON, 1-6, 2023"
+        "citation": "2023 IEEE AFRICON, 1-6, 2023",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "A Dependable Digital System Model for Malaria Monitoring",
         "pub_year": "2022",
-        "citation": "Preprints, 2022"
+        "citation": "Preprints, 2022",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "A new time-dependent algorithm for post enrolment-based course timetabling problem",
         "pub_year": "2016",
-        "citation": "2016 Eighth International Conference on Advanced Computational Intelligence …, 2016"
+        "citation": "2016 Eighth International Conference on Advanced Computational Intelligence …, 2016",
+        "num_citations": 3,
+        "author_pub_id": "rVFrmkQAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Analyzing social influence in recommender systems",
         "pub_year": "2020",
-        "citation": "Technische Universität Wien, 2020"
+        "citation": "Technische Universität Wien, 2020",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Analyzing the impact of social connections on rating behavior in social recommender systems",
         "pub_year": "2017",
-        "citation": "Proceedings of the 25th Conference on User Modeling, Adaptation and …, 2017"
+        "citation": "Proceedings of the 25th Conference on User Modeling, Adaptation and …, 2017",
+        "num_citations": 4,
+        "author_pub_id": "rVFrmkQAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Discrete Cosine Coefficients as Images features for Fire Detection based on Computer Vision.",
         "pub_year": "2014",
-        "citation": "J. Comput. 9 (2), 295-300, 2014"
+        "citation": "J. Comput. 9 (2), 295-300, 2014",
+        "num_citations": 2,
+        "author_pub_id": "rVFrmkQAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Dynamic reducts computation analysis based on rough sets",
         "pub_year": "2014",
-        "citation": "2014 10th International Conference on Natural Computation (ICNC), 480-485, 2014"
+        "citation": "2014 10th International Conference on Natural Computation (ICNC), 480-485, 2014",
+        "num_citations": 2,
+        "author_pub_id": "rVFrmkQAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "ECG-Signals-based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers",
         "pub_year": "2024",
-        "citation": "2024 IEEE 22nd World Symposium on Applied Machine Intelligence and …, 2024"
+        "citation": "2024 IEEE 22nd World Symposium on Applied Machine Intelligence and …, 2024",
+        "num_citations": 1,
+        "author_pub_id": "rVFrmkQAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Fairness and diversity in social-based recommender systems",
         "pub_year": "2020",
-        "citation": "Adjunct publication of the 28th ACM conference on user modeling, adaptation …, 2020"
+        "citation": "Adjunct publication of the 28th ACM conference on user modeling, adaptation …, 2020",
+        "num_citations": 25,
+        "author_pub_id": "rVFrmkQAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "IT-Aided Forecasting Model for Malaria Spread for the Developing World",
         "pub_year": "2023",
-        "citation": "2023 Conference on Information Communications Technology and Society (ICTAS …, 2023"
+        "citation": "2023 Conference on Information Communications Technology and Society (ICTAS …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Mining user behavior in social recommender systems",
         "pub_year": "2018",
-        "citation": "Proceedings of the 8th International Conference on Web Intelligence, Mining …, 2018"
+        "citation": "Proceedings of the 8th International Conference on Web Intelligence, Mining …, 2018",
+        "num_citations": 6,
+        "author_pub_id": "rVFrmkQAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+        "title": "SVM Model-Based Digital System for Malaria Screening and Parasite Monitoring",
+        "pub_year": "2023",
+        "citation": "2023 IEEE Third International Conference on Signal, Control and …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "The impact of social connections in personalization",
         "pub_year": "2019",
-        "citation": "Adjunct Publication of the 27th Conference on User Modeling, Adaptation and …, 2019"
+        "citation": "Adjunct Publication of the 27th Conference on User Modeling, Adaptation and …, 2019",
+        "num_citations": 2,
+        "author_pub_id": "rVFrmkQAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "The role of activity and similarity in rating and social behavior in social recommender systems",
         "pub_year": "2019",
-        "citation": "International Journal on Artificial Intelligence Tools 28 (06), 1960004, 2019"
+        "citation": "International Journal on Artificial Intelligence Tools 28 (06), 1960004, 2019",
+        "num_citations": 6,
+        "author_pub_id": "rVFrmkQAAAAJ:qjMakFHDy7sC"
     }
 ]

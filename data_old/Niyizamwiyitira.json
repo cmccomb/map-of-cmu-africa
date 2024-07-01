@@ -2,76 +2,106 @@
     {
         "title": "A utilization-based schedulability test of real-time systems running on a multiprocessor virtual machine",
         "pub_year": "2019",
-        "citation": "The Computer Journal 62 (6), 884-904, 2019"
+        "citation": "The Computer Journal 62 (6), 884-904, 2019",
+        "num_citations": 4,
+        "author_pub_id": "7uodSIcAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Evaluation of Voice-driven Web Application Architecture",
         "pub_year": "2012",
-        "citation": "2012 Eighth International Conference on Signal Image Technology and Internet …, 2012"
+        "citation": "2012 Eighth International Conference on Signal Image Technology and Internet …, 2012",
+        "num_citations": 1,
+        "author_pub_id": "7uodSIcAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Improving Channel Capacity in Bidirectional Cooperative MIMO Relay Network",
         "pub_year": "2010",
-        "citation": "Proceedings of the Korean Institute of Information and Commucation Sciences …, 2010"
+        "citation": "Proceedings of the Korean Institute of Information and Commucation Sciences …, 2010",
+        "num_citations": 0,
+        "author_pub_id": "7uodSIcAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Joint BLAST-STTC for MIMO-OFDM System",
         "pub_year": "2010",
-        "citation": "Journal of information and communication convergence engineering 8 (4), 387-392, 2010"
+        "citation": "Journal of information and communication convergence engineering 8 (4), 387-392, 2010",
+        "num_citations": 0,
+        "author_pub_id": "7uodSIcAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Low complexity ml detection based on linear detectors in MIMO Systems",
         "pub_year": "2009",
-        "citation": "Journal of the Korea Institute of Information and Communication Engineering …, 2009"
+        "citation": "Journal of the Korea Institute of Information and Communication Engineering …, 2009",
+        "num_citations": 1,
+        "author_pub_id": "7uodSIcAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "MIMO Two-way Cooperative Relay to Improve End to End Capacity in Non-equidistant Topology",
         "pub_year": "2010",
-        "citation": "Proceedings of the Korean Institute of Information and Commucation Sciences …, 2010"
+        "citation": "Proceedings of the Korean Institute of Information and Commucation Sciences …, 2010",
+        "num_citations": 0,
+        "author_pub_id": "7uodSIcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "MIMO 시스템에서 저 복잡도 선형 ML 검출 기법",
         "pub_year": "2009",
-        "citation": "한국정보통신학회논문지 13 (11), 2405-2411, 2009"
+        "citation": "한국정보통신학회논문지 13 (11), 2405-2411, 2009",
+        "num_citations": 0,
+        "author_pub_id": "7uodSIcAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Performance Aspects of Databases and Virtualized Real-time Applications",
         "pub_year": "2018",
-        "citation": "Blekinge Tekniska Högskola, 2018"
+        "citation": "Blekinge Tekniska Högskola, 2018",
+        "num_citations": 0,
+        "author_pub_id": "7uodSIcAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Performance Evaluation of Trajectory Queries on Multiprocessor and Cluster",
         "pub_year": "2016",
-        "citation": "Computer Science & Information Technology (CS & IT), 2016"
+        "citation": "Computer Science & Information Technology (CS & IT), 2016",
+        "num_citations": 2,
+        "author_pub_id": "7uodSIcAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Performance evaluation and prediction of open source speech engine on multicore processors",
         "pub_year": "2013",
-        "citation": "Proceedings of the Fifth International Conference on Management of Emergent …, 2013"
+        "citation": "Proceedings of the Fifth International Conference on Management of Emergent …, 2013",
+        "num_citations": 1,
+        "author_pub_id": "7uodSIcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Performance evaluation of SQL and NoSQL database management systems in a cluster",
         "pub_year": "2017",
-        "citation": "International Journal of Database Management Systems 9 (6), 1-24, 2017"
+        "citation": "International Journal of Database Management Systems 9 (6), 1-24, 2017",
+        "num_citations": 23,
+        "author_pub_id": "7uodSIcAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Period assignment in real-time scheduling of multiple virtual machines",
         "pub_year": "2015",
-        "citation": "Proceedings of the 7th International Conference on Management of …, 2015"
+        "citation": "Proceedings of the 7th International Conference on Management of …, 2015",
+        "num_citations": 1,
+        "author_pub_id": "7uodSIcAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Real-time scheduling of multiple virtual machines",
         "pub_year": "2017",
-        "citation": "International journal of Computers and their applications 24 (3), 91-109, 2017"
+        "citation": "International journal of Computers and their applications 24 (3), 91-109, 2017",
+        "num_citations": 2,
+        "author_pub_id": "7uodSIcAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Teaching using video-conferencing: approaches and challenges",
         "pub_year": "2016",
-        "citation": "Conference on higher education, 1-21, 2016"
+        "citation": "Conference on higher education, 1-21, 2016",
+        "num_citations": 4,
+        "author_pub_id": "7uodSIcAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Utilization-Based Schedulability Test of Real-time Systems on Virtual Multiprocessors",
         "pub_year": "2015",
-        "citation": "2015 44th International Conference on Parallel Processing Workshops, 267-276, 2015"
+        "citation": "2015 44th International Conference on Parallel Processing Workshops, 267-276, 2015",
+        "num_citations": 1,
+        "author_pub_id": "7uodSIcAAAAJ:qjMakFHDy7sC"
     }
 ]

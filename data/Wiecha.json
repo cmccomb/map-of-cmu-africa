@@ -38,21 +38,21 @@
         "title": "An empirical study of how visual programming aids in comprehending quantitative policy models.(volumes i and ii)(user interfaces, non-procedural languages, software psychology)",
         "pub_year": "1986",
         "citation": "Carnegie Mellon University, 1986",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "wgrJnDgAAAAJ:Q3_nmhWTCy0C"
     },
     {
         "title": "An empirical study of strategies for understanding quantitative decision models",
         "pub_year": "1987",
         "citation": "",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "wgrJnDgAAAAJ:rKOGDx9nJ1EC"
     },
     {
         "title": "Automated confirmation and disambiguation modules in voice applications",
         "pub_year": "2016",
         "citation": "US Patent 9,298,811, 2016",
-        "num_citations": 11,
+        "num_citations": 0,
         "author_pub_id": "wgrJnDgAAAAJ:1DdUqAzPfXgC"
     },
     {
@@ -63,7 +63,7 @@
         "author_pub_id": "wgrJnDgAAAAJ:bQkGhl1z2hUC"
     },
     {
-        "title": "CHARLES WIECHA, WILLIAM BENNETT",
+        "title": "CHARLES WIECHA, WILLIAM BENNETT, STEPHEN BOIES, AND JOHN GOULD",
         "pub_year": "1989",
         "citation": "Coordinating User Interfaces for Consistency, 107, 1989",
         "num_citations": 0,
@@ -136,7 +136,7 @@
         "title": "Design methods and software tools for consistency in multi- channel web applications",
         "pub_year": "2006",
         "citation": "Workshop on UI Consistency, CHI, 2006",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "wgrJnDgAAAAJ:JtjtGO9FvpUC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Direct manipulation of programming: How should we design interfaces?",
         "pub_year": "1989",
         "citation": "Proceedings of the 2nd annual ACM SIGGRAPH symposium on User interface …, 1989",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "wgrJnDgAAAAJ:QLZAdv6BrvsC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Expert systems for engineering design",
         "pub_year": "2012",
         "citation": "Elsevier, 2012",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "wgrJnDgAAAAJ:9hNLEifDsrsC"
     },
     {
@@ -276,7 +276,7 @@
         "title": "ITS: A tool for rapidly developing interactive applications",
         "pub_year": "1990",
         "citation": "ACM Transactions on Information Systems (TOIS) 8 (3), 204-236, 1990",
-        "num_citations": 252,
+        "num_citations": 250,
         "author_pub_id": "wgrJnDgAAAAJ:22I2CSi1iVUC"
     },
     {
@@ -353,7 +353,7 @@
         "title": "Planning for goal-oriented dialogue systems",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1910.08137, 2019",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "wgrJnDgAAAAJ:zPkyA21Y468C"
     },
     {
@@ -367,7 +367,7 @@
         "title": "Pose detection using depth camera",
         "pub_year": "2019",
         "citation": "US Patent 10,303,969, 2019",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "wgrJnDgAAAAJ:8LfMcXwVQboC"
     },
     {
@@ -500,7 +500,7 @@
         "title": "Tools for generating consistent user interfaces",
         "pub_year": "1989",
         "citation": "Coordinating user interfaces for consistency, 107-130, 1989",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "wgrJnDgAAAAJ:0KZCP5UExFUC"
     },
     {

@@ -10,7 +10,7 @@
         "title": "A tool for assessing demand side management and operating strategies for isolated microgrids",
         "pub_year": "2021",
         "citation": "Energy for Sustainable Development 64, 15-24, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "vVhcBXoAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -24,7 +24,7 @@
         "title": "Automated planning of rooftop PV systems with aerial image processing",
         "pub_year": "2018",
         "citation": "2018 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC …, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "vVhcBXoAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Comparison of lead-acid and lithium ion batteries for stationary storage in off-grid energy systems",
         "pub_year": "2016",
         "citation": "IET Digital Library, 2016",
-        "num_citations": 151,
+        "num_citations": 160,
         "author_pub_id": "vVhcBXoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Institutional influence on power sector investments: A case study of on-and off-grid energy in Kenya and Tanzania",
         "pub_year": "2018",
         "citation": "Energy research & social science 41, 59-70, 2018",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "vVhcBXoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -112,6 +112,13 @@
         "author_pub_id": "vVhcBXoAAAAJ:u-x6o8ySG0sC"
     },
     {
+        "title": "Peer-to-Peer Electricity Trading: A Policy Approach for Rwanda",
+        "pub_year": "2023",
+        "citation": "2023 IEEE PES 15th Asia-Pacific Power and Energy Engineering Conference …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "vVhcBXoAAAAJ:8k81kl-MbHgC"
+    },
+    {
         "title": "Simulating energy management strategies for microgrids with smart meter demand management",
         "pub_year": "2017",
         "citation": "2017 IEEE PES PowerAfrica, 600-605, 2017",
@@ -128,7 +135,7 @@
         "title": "Smart microgrid operation simulator for management and electrification planning",
         "pub_year": "2016",
         "citation": "2016 IEEE PES PowerAfrica, 1-5, 2016",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "vVhcBXoAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -149,7 +156,7 @@
         "title": "Strategic EV charging and renewable integration in Texas",
         "pub_year": "2024",
         "citation": "2024 IEEE Texas Power and Energy Conference (TPEC), 1-6, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vVhcBXoAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -163,7 +170,7 @@
         "title": "Towards an energy future with ubiquitous electric vehicles: Barriers and opportunities",
         "pub_year": "2023",
         "citation": "Energies 16 (17), 6379, 2023",
-        "num_citations": 18,
+        "num_citations": 21,
         "author_pub_id": "vVhcBXoAAAAJ:UebtZRa9Y70C"
     }
 ]
