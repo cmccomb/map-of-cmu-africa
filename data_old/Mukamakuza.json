@@ -52,14 +52,14 @@
         "title": "ECG-Signals-based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers",
         "pub_year": "2024",
         "citation": "2024 IEEE 22nd World Symposium on Applied Machine Intelligence and …, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "rVFrmkQAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Fairness and diversity in social-based recommender systems",
         "pub_year": "2020",
         "citation": "Adjunct publication of the 28th ACM conference on user modeling, adaptation …, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "rVFrmkQAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -94,7 +94,7 @@
         "title": "The role of activity and similarity in rating and social behavior in social recommender systems",
         "pub_year": "2019",
         "citation": "International Journal on Artificial Intelligence Tools 28 (06), 1960004, 2019",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "rVFrmkQAAAAJ:qjMakFHDy7sC"
     }
 ]

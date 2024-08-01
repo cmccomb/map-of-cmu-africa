@@ -30,7 +30,7 @@
         "title": "A survey of 5G for rural broadband connectivity",
         "pub_year": "2021",
         "citation": "2021 IST-Africa Conference (IST-Africa), 1-10, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "LMW7_-YAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -60,6 +60,13 @@
         "citation": "IEEE transactions on vehicular technology 68 (10), 10174-10186, 2019",
         "num_citations": 12,
         "author_pub_id": "LMW7_-YAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Design and implementation of a low-cost LoRa-Based Sensor Node for environmental monitoring in Uganda",
+        "pub_year": "2024",
+        "citation": "2024 IEEE Conference on Technologies for Sustainability (SusTech), 220-225, 2024",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Energy efficient deployment of dense heterogeneous cellular networks",

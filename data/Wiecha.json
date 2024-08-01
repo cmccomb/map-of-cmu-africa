@@ -101,7 +101,7 @@
         "title": "Coordinating user interfaces for consistency",
         "pub_year": "1989",
         "citation": "ACM Sigchi Bulletin 20 (3), 63-65, 1989",
-        "num_citations": 269,
+        "num_citations": 273,
         "author_pub_id": "wgrJnDgAAAAJ:tDdgxD0hSQMC"
     },
     {
@@ -147,18 +147,18 @@
         "author_pub_id": "wgrJnDgAAAAJ:W2VW_RKN1OwC"
     },
     {
-        "title": "Direct Manipulation Or Programming: How Should We Design Interfaces?",
-        "pub_year": "1989",
-        "citation": "Proceedings of the ACM Symposium on User Interface Software and Technology …, 1989",
-        "num_citations": 2,
-        "author_pub_id": "wgrJnDgAAAAJ:H6myOybQgeYC"
-    },
-    {
         "title": "Direct manipulation of programming: How should we design interfaces?",
         "pub_year": "1989",
         "citation": "Proceedings of the 2nd annual ACM SIGGRAPH symposium on User interface …, 1989",
         "num_citations": 3,
         "author_pub_id": "wgrJnDgAAAAJ:QLZAdv6BrvsC"
+    },
+    {
+        "title": "Direct manipulation or programming: How should we design interfaces?",
+        "pub_year": "1989",
+        "citation": "Annual ACM Symposium on User Interface Software and Technology, 1989",
+        "num_citations": 2,
+        "author_pub_id": "wgrJnDgAAAAJ:H6myOybQgeYC"
     },
     {
         "title": "Distributed execution model for cross-organizational declarative web applications",
@@ -185,7 +185,7 @@
         "title": "Expert systems for engineering design",
         "pub_year": "2012",
         "citation": "Elsevier, 2012",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "wgrJnDgAAAAJ:9hNLEifDsrsC"
     },
     {
@@ -325,7 +325,7 @@
         "title": "Managing customer knowledge",
         "pub_year": "2000",
         "citation": "Journal of Business Strategy 21 (6), 35-35, 2000",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "wgrJnDgAAAAJ:Vu1dURnyNv8C"
     },
     {
@@ -353,7 +353,7 @@
         "title": "Planning for goal-oriented dialogue systems",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1910.08137, 2019",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "wgrJnDgAAAAJ:zPkyA21Y468C"
     },
     {
