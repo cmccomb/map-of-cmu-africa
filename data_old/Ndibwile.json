@@ -31,8 +31,14 @@
         "title": "A mechanism for prevention of flooding based ddos attack",
         "pub_year": "2017",
         "citation": "International Journal of Computational Intelligence Research 13 (1), 101-111, 2017",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "tRmAOagAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+        "title": "Advancing SSRF Detection through Deep Learning: A Comparative Study of LSTM, BiLSTM, BERT, and GRU Models",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "tRmAOagAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "An Empirical Approach to Phishing Countermeasures through Smart Glasses and Validation Agents",
@@ -72,7 +78,7 @@
         "title": "Classifying swahili smishing attacks for mobile money users: A machine-learning approach",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 83061-83074, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "tRmAOagAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -101,6 +107,13 @@
         "citation": "2023 10th International Conference on Future Internet of Things and Cloud …, 2023",
         "num_citations": 0,
         "author_pub_id": "tRmAOagAAAAJ:hFOr9nPyWt4C"
+    },
+    {
+        "title": "IoT-Based Control and Monitoring System of a Solar-Powered Brushless DC Motor for Agro-Machines",
+        "pub_year": "2022",
+        "citation": "International Conference on Technological Advancement in Embedded and Mobile …, 2022",
+        "num_citations": 0,
+        "author_pub_id": "tRmAOagAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Low time complexity model for email spam detection using logistic regression",
@@ -148,7 +161,7 @@
         "title": "Security of Cryptocurrencies in blockchain technology: State-of-art, challenges and future prospects",
         "pub_year": "2020",
         "citation": "Journal of Network and Computer Applications 163, 102635, 2020",
-        "num_citations": 216,
+        "num_citations": 219,
         "author_pub_id": "tRmAOagAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -176,7 +189,7 @@
         "title": "To coerce or not to coerce? a quantitative investigation on cybersecurity and cybercrime legislations towards large-scale vulnerability notifications",
         "pub_year": "2019",
         "citation": "2019 IEEE International Symposium on Software Reliability Engineering …, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "tRmAOagAAAAJ:Zph67rFs4hoC"
     },
     {

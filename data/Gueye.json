@@ -3,7 +3,7 @@
         "title": "A Historical and Statistical Studyof the Software Vulnerability Landscape",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2102.01722, 2021",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "AgCgDcUAAAAJ:k_IJM867U9cC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A decade of reoccurring software weaknesses",
         "pub_year": "2021",
         "citation": "IEEE security & privacy 19 (6), 74-82, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "AgCgDcUAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -142,7 +142,7 @@
         "title": "Critical Software Security Weaknesses",
         "pub_year": "2023",
         "citation": "IT Professional 25 (4), 11-16, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "AgCgDcUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -287,7 +287,7 @@
         "title": "Measurements of the most significant software security weaknesses",
         "pub_year": "2020",
         "citation": "Proceedings of the 36th Annual Computer Security Applications Conference …, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "AgCgDcUAAAAJ:O3NaXMp0MMsC"
     },
     {
