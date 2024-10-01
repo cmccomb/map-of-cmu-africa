@@ -10,7 +10,7 @@
         "title": "A Learning and Control Perspective for Microfinance",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2207.12631, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "AgCgDcUAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -19,6 +19,13 @@
         "citation": "Learning for Dynamics and Control Conference, 915-927, 2023",
         "num_citations": 0,
         "author_pub_id": "AgCgDcUAAAAJ:35N4QoGY0k4C"
+    },
+    {
+        "title": "A Low-Cost Honeynet Infrastructure For Smishing Data Collection",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 7th ACM SIGCAS/SIGCHI Conference on Computing and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AgCgDcUAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "A Matrix Model to Analyze Cascading Failure in Critical Infrastructures",
@@ -183,7 +190,7 @@
         "title": "Evaluating Mobile Banking Application Security Posture Using the OWASP’s MASVS Framework",
         "pub_year": "2023",
         "citation": "Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "AgCgDcUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -409,9 +416,9 @@
     },
     {
         "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.00226, 2023",
-        "num_citations": 2,
+        "pub_year": "2024",
+        "citation": "2024 IEEE Symposium on Security and Privacy (SP), 752-769, 2024",
+        "num_citations": 3,
         "author_pub_id": "AgCgDcUAAAAJ:g5m5HwL7SMYC"
     },
     {

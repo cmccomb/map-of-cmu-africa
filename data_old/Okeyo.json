@@ -100,7 +100,7 @@
         "title": "A knowledge-driven approach to composite activity recognition in smart environments",
         "pub_year": "2012",
         "citation": "Ubiquitous Computing and Ambient Intelligence: 6th International Conference …, 2012",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "oyaImDQAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -128,14 +128,14 @@
         "title": "A social network-based framework for interactive and personalized web-based learning",
         "pub_year": "2018",
         "citation": "International Journal of Scientific and research Publications 8 (3), 237-247, 2018",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "oyaImDQAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "A survey on privacy and security of Internet of Things",
         "pub_year": "2020",
         "citation": "Computer Science Review 38, 100312, 2020",
-        "num_citations": 168,
+        "num_citations": 175,
         "author_pub_id": "oyaImDQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -176,7 +176,7 @@
         "title": "An Image Denoising Technique Using Wavelet-Anisotropic Gaussian Filter-Based Denoising Convolutional Neural Network for CT Images",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (21), 12069, 2023",
-        "num_citations": 2,
+        "num_citations": 6,
         "author_pub_id": "oyaImDQAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -197,14 +197,14 @@
         "title": "An ontology-based hybrid approach to activity modeling for smart homes",
         "pub_year": "2013",
         "citation": "IEEE Transactions on human-machine systems 44 (1), 92-105, 2013",
-        "num_citations": 186,
+        "num_citations": 188,
         "author_pub_id": "oyaImDQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Combining ontological and temporal formalisms for composite activity modelling and recognition in smart homes",
         "pub_year": "2014",
         "citation": "Future Generation Computer Systems 39, 29-43, 2014",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "oyaImDQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -246,7 +246,7 @@
         "title": "Dynamic sensor data segmentation for real-time knowledge-driven activity recognition",
         "pub_year": "2014",
         "citation": "Pervasive and Mobile Computing 10, 155-172, 2014",
-        "num_citations": 214,
+        "num_citations": 215,
         "author_pub_id": "oyaImDQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "Feature selection for classification using principal component analysis and information gain",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications 174, 114765, 2021",
-        "num_citations": 235,
+        "num_citations": 240,
         "author_pub_id": "oyaImDQAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -349,7 +349,7 @@
         "title": "Matrix factorization techniques for context-aware collaborative filtering recommender systems: A survey",
         "pub_year": "2018",
         "citation": "Canadian Center of Science and Education, 2018",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "oyaImDQAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -363,7 +363,7 @@
         "title": "Modeling the risk of invasion and spread of Tuta absoluta in Africa",
         "pub_year": "2016",
         "citation": "Ecological Complexity 28, 77-93, 2016",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "oyaImDQAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -391,7 +391,7 @@
         "title": "Ontology-driven approach for knowledge sharing and retrieval",
         "pub_year": "2016",
         "citation": "International Journal of Computer Science Issues (IJCSI) 13 (4), 59, 2016",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "oyaImDQAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -426,14 +426,14 @@
         "title": "Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (3), 1445, 2023",
-        "num_citations": 61,
+        "num_citations": 68,
         "author_pub_id": "oyaImDQAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Sentiment analysis on social media tweets using dimensionality reduction and natural language processing",
         "pub_year": "2023",
         "citation": "Engineering Reports 5 (3), e12579, 2023",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "oyaImDQAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -545,14 +545,14 @@
         "title": "Ubiquitous computing and ambient intelligence",
         "pub_year": "2017",
         "citation": "Proc. 6th Int. Conf.(UCAmI), 1348-1353, 2017",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "oyaImDQAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Using Naïve Bayes algorithm in detection of hate tweets",
         "pub_year": "2018",
         "citation": "International Journal of Scientific and Research Publications 8 (3), 99-107, 2018",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "oyaImDQAAAAJ:NMxIlDl6LWMC"
     },
     {

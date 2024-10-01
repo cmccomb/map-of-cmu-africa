@@ -37,14 +37,14 @@
         "title": "A comparison of nonlinear noise reduction and independent component analysis using a realistic dynamical model of the electrocardiogram",
         "pub_year": "2004",
         "citation": "Fluctuations and Noise in Biological, Biophysical, and Biomedical Systems II …, 2004",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "0bg-uVgAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "A comparison of univariate methods for forecasting electricity demand up to a day ahead",
         "pub_year": "2006",
         "citation": "International journal of forecasting 22 (1), 1-16, 2006",
-        "num_citations": 693,
+        "num_citations": 694,
         "author_pub_id": "0bg-uVgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -65,7 +65,7 @@
         "title": "A dynamical model for generating synthetic electrocardiogram signals",
         "pub_year": "2003",
         "citation": "IEEE transactions on biomedical engineering 50 (3), 289-294, 2003",
-        "num_citations": 1592,
+        "num_citations": 1605,
         "author_pub_id": "0bg-uVgAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -107,7 +107,7 @@
         "title": "A simple filter benchmark for feature selection",
         "pub_year": "2010",
         "citation": "Journal of Machine Learning Research 1 (1-24), 2010",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "0bg-uVgAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "Accurate telemonitoring of Parkinson’s disease progression by non-invasive speech tests",
         "pub_year": "2009",
         "citation": "Nature Precedings, 1-1, 2009",
-        "num_citations": 864,
+        "num_citations": 876,
         "author_pub_id": "0bg-uVgAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -156,7 +156,7 @@
         "title": "Advanced methods and tools for ECG data analysis",
         "pub_year": "2006",
         "citation": "Artech house, 2006",
-        "num_citations": 1214,
+        "num_citations": 1218,
         "author_pub_id": "0bg-uVgAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "Constructing spatiotemporal poverty indices from big data",
         "pub_year": "2017",
         "citation": "Journal of Business Research 70, 318-327, 2017",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "0bg-uVgAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -358,7 +358,7 @@
         "title": "ECG statistics, noise, artifacts, and missing data",
         "pub_year": "2006",
         "citation": "Advanced methods and tools for ECG data analysis 6 (1), 18, 2006",
-        "num_citations": 255,
+        "num_citations": 257,
         "author_pub_id": "0bg-uVgAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -371,7 +371,7 @@
         "title": "Effect of altitude on physiological performance: a statistical analysis using results of international football games",
         "pub_year": "2007",
         "citation": "Bmj 335 (7633), 1278-1281, 2007",
-        "num_citations": 71,
+        "num_citations": 74,
         "author_pub_id": "0bg-uVgAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -385,7 +385,7 @@
         "title": "Enhanced classical dysphonia measures and sparse regression for telemonitoring of Parkinson's disease progression",
         "pub_year": "2010",
         "citation": "2010 IEEE International Conference on Acoustics, Speech and Signal …, 2010",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "0bg-uVgAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -427,7 +427,7 @@
         "title": "Exploiting nonlinear recurrence and fractal scaling properties for voice disorder detection",
         "pub_year": "2007",
         "citation": "Nature Precedings, 1-1, 2007",
-        "num_citations": 1031,
+        "num_citations": 1036,
         "author_pub_id": "0bg-uVgAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -448,7 +448,7 @@
         "title": "Feedback control architecture and the bacterial chemotaxis network",
         "pub_year": "2011",
         "citation": "PLoS computational biology 7 (5), e1001130, 2011",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "0bg-uVgAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -462,7 +462,7 @@
         "title": "Female enrollment, child mortality and corruption are good predictors of a country’s UN education index",
         "pub_year": "2022",
         "citation": "International Journal of Educational Development 90, 102561, 2022",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "0bg-uVgAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -503,7 +503,7 @@
         "title": "Forecasting energy demand for microgrids over multiple horizons",
         "pub_year": "2018",
         "citation": "2018 IEEE PES/IAS PowerAfrica, 457-462, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "0bg-uVgAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -524,7 +524,7 @@
         "title": "Generating 24-hour ECG, BP and respiratory signals with realistic linear and nonlinear clinical characteristics using a nonlinear model",
         "pub_year": "2004",
         "citation": "Computers in Cardiology, 2004, 709-712, 2004",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "0bg-uVgAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -545,7 +545,7 @@
         "title": "How well do experience curves predict technological progress? A method for making distributional forecasts",
         "pub_year": "2018",
         "citation": "Technological Forecasting and Social Change 128, 104-117, 2018",
-        "num_citations": 93,
+        "num_citations": 97,
         "author_pub_id": "0bg-uVgAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -642,7 +642,7 @@
         "title": "Linear and non-linear methods for automatic seizure detection in scalp electro-encephalogram recordings",
         "pub_year": "2002",
         "citation": "Medical and Biological Engineering and Computing 40, 447-461, 2002",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "0bg-uVgAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -716,7 +716,7 @@
         "title": "Nonlinear Filtering Techniques",
         "pub_year": "2006",
         "citation": "Advanced Methods and Tools for ECG Data Analysis, 171, 2006",
-        "num_citations": 0,
+        "num_citations": 3,
         "author_pub_id": "0bg-uVgAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -751,7 +751,7 @@
         "title": "Nonlinear speech analysis algorithms mapped to a standard metric achieve clinically useful quantification of average Parkinson's disease symptom severity",
         "pub_year": "2011",
         "citation": "Journal of the royal society interface 8 (59), 842-855, 2011",
-        "num_citations": 387,
+        "num_citations": 388,
         "author_pub_id": "0bg-uVgAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -765,7 +765,7 @@
         "title": "Novel speech signal processing algorithms for high-accuracy classification of Parkinson's disease",
         "pub_year": "2012",
         "citation": "IEEE transactions on biomedical engineering 59 (5), 1264-1271, 2012",
-        "num_citations": 792,
+        "num_citations": 799,
         "author_pub_id": "0bg-uVgAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -779,7 +779,7 @@
         "title": "Objective classification of rainfall in northern Europe for online operation of urban water systems based on clustering techniques",
         "pub_year": "2016",
         "citation": "Water 8 (3), 87, 2016",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "0bg-uVgAAAAJ:bnK-pcrLprsC"
     },
     {
@@ -849,7 +849,7 @@
         "title": "Prediction of epileptic seizures: are nonlinear methods relevant?",
         "pub_year": "2003",
         "citation": "Nature medicine 9 (3), 241-242, 2003",
-        "num_citations": 270,
+        "num_citations": 272,
         "author_pub_id": "0bg-uVgAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -925,7 +925,7 @@
         "title": "Quantile forecasting of wind power using variability indices",
         "pub_year": "2013",
         "citation": "Energies 6 (2), 662-695, 2013",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "0bg-uVgAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -967,7 +967,7 @@
         "title": "Remote health diagnosis and monitoring in the time of COVID-19",
         "pub_year": "2020",
         "citation": "Physiological measurement 41 (10), 10TR01, 2020",
-        "num_citations": 75,
+        "num_citations": 77,
         "author_pub_id": "0bg-uVgAAAAJ:foquWX3nUaYC"
     },
     {
@@ -1037,7 +1037,7 @@
         "title": "Short-term load forecasting methods: An evaluation based on european data",
         "pub_year": "2007",
         "citation": "IEEE Transactions on Power Systems 22 (4), 2213-2219, 2007",
-        "num_citations": 708,
+        "num_citations": 712,
         "author_pub_id": "0bg-uVgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1107,7 +1107,7 @@
         "title": "Suitability of dysphonia measurements for telemonitoring of Parkinson’s disease",
         "pub_year": "2008",
         "citation": "Nature Precedings, 1-1, 2008",
-        "num_citations": 1247,
+        "num_citations": 1255,
         "author_pub_id": "0bg-uVgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1121,7 +1121,7 @@
         "title": "System and Method for Communicating Environmentally-Based Medical Advice",
         "pub_year": "2009",
         "citation": "US Patent App. 12/084,952, 2009",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "0bg-uVgAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -1183,7 +1183,7 @@
         "title": "The economic cost of conflict: Evidence from South Sudan",
         "pub_year": "2021",
         "citation": "Review of Development Economics 25 (4), 1969-1990, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "0bg-uVgAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -1230,21 +1230,21 @@
         "title": "Use of machine learning techniques to create a credit score model for airtime loans",
         "pub_year": "2020",
         "citation": "Journal of Risk and Financial Management 13 (8), 180, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "0bg-uVgAAAAJ:Z5m8FVwuT1cC"
     },
     {
         "title": "Use of machine learning techniques to identify HIV predictors for screening in sub-Saharan Africa",
         "pub_year": "2021",
         "citation": "BMC medical research methodology 21, 1-11, 2021",
-        "num_citations": 41,
+        "num_citations": 45,
         "author_pub_id": "0bg-uVgAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "Use of unsupervised machine learning to characterise HIV predictors in sub-Saharan Africa",
         "pub_year": "2023",
         "citation": "BMC Infectious Diseases 23 (1), 482, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "0bg-uVgAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -1258,7 +1258,7 @@
         "title": "Using machine learning and remote sensing to value property in Rwanda",
         "pub_year": "2020",
         "citation": "International Growth Centre, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "0bg-uVgAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -1293,7 +1293,7 @@
         "title": "Wind power density forecasting using ensemble predictions and time series models",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Energy conversion 24 (3), 775-782, 2009",
-        "num_citations": 442,
+        "num_citations": 444,
         "author_pub_id": "0bg-uVgAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1307,7 +1307,7 @@
         "title": "﻿ A global analysis of the effectiveness of policy responses to COVID-19",
         "pub_year": "2023",
         "citation": "Scientific Reports 13 (1), 5629, 2023",
-        "num_citations": 18,
+        "num_citations": 21,
         "author_pub_id": "0bg-uVgAAAAJ:WZBGuue-350C"
     }
 ]

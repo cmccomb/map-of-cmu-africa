@@ -73,7 +73,7 @@
         "title": "Bird Sound Classification Using GLCM Features and LightGBM Applied to Farm Monitoring",
         "pub_year": "2023",
         "citation": "2023 11th International Conference on Intelligent Computing and Wireless …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "6y_k3EgAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Vehicle-to-infrastructure communication over multi-tier heterogeneous networks: A survey",
         "pub_year": "2017",
         "citation": "Computer networks 112, 144-166, 2017",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "6y_k3EgAAAAJ:2osOgNQ5qMEC"
     }
 ]

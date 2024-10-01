@@ -3,7 +3,7 @@
         "title": "A Data Management Model for Malaria Control: A Case of Rwanda",
         "pub_year": "2023",
         "citation": "2023 IEEE AFRICON, 1-6, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "rVFrmkQAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -33,6 +33,13 @@
         "citation": "Proceedings of the 25th Conference on User Modeling, Adaptation and …, 2017",
         "num_citations": 4,
         "author_pub_id": "rVFrmkQAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Binary Segmentation of Malaria Parasites Using U-Net Segmentation Approach: A Case of Rwanda",
+        "pub_year": "2024",
+        "citation": "International Congress on Information and Communication Technology, 163-176, 2024",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Discrete Cosine Coefficients as Images features for Fire Detection based on Computer Vision.",
@@ -94,7 +101,7 @@
         "title": "The role of activity and similarity in rating and social behavior in social recommender systems",
         "pub_year": "2019",
         "citation": "International Journal on Artificial Intelligence Tools 28 (06), 1960004, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "rVFrmkQAAAAJ:qjMakFHDy7sC"
     }
 ]
