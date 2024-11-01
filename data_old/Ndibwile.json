@@ -31,7 +31,7 @@
         "title": "A mechanism for prevention of flooding based ddos attack",
         "pub_year": "2017",
         "citation": "International Journal of Computational Intelligence Research 13 (1), 101-111, 2017",
-        "num_citations": 38,
+        "num_citations": 42,
         "author_pub_id": "tRmAOagAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -78,14 +78,14 @@
         "title": "Classifying swahili smishing attacks for mobile money users: A machine-learning approach",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 83061-83074, 2022",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "tRmAOagAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Detection of username enumeration attack on ssh protocol: Machine learning approach",
         "pub_year": "2021",
         "citation": "Symmetry 13 (11), 2192, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "tRmAOagAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -167,7 +167,7 @@
         "title": "Security of Cryptocurrencies in blockchain technology: State-of-art, challenges and future prospects",
         "pub_year": "2020",
         "citation": "Journal of Network and Computer Applications 163, 102635, 2020",
-        "num_citations": 228,
+        "num_citations": 236,
         "author_pub_id": "tRmAOagAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -209,13 +209,13 @@
         "title": "Uncovering SMS spam in swahili text using deep learning approaches",
         "pub_year": "2024",
         "citation": "IEEE Access, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "tRmAOagAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Validation Agents and Persuasive Designs for Phishing Detection and Update Compliance on Smartphones",
         "pub_year": "2019",
-        "citation": "奈良先端科学技術大学院大学, 2019",
+        "citation": "(No Title), 2019",
         "num_citations": 0,
         "author_pub_id": "tRmAOagAAAAJ:0EnyYjriUFMC"
     },
@@ -223,7 +223,7 @@
         "title": "Web Server protection against application layer DDoS attacks using machine learning and traffic authentication",
         "pub_year": "2015",
         "citation": "2015 IEEE 39th Annual Computer Software and Applications Conference 3, 261-267, 2015",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "tRmAOagAAAAJ:u-x6o8ySG0sC"
     }
 ]
