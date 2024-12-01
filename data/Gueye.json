@@ -35,6 +35,13 @@
         "author_pub_id": "AgCgDcUAAAAJ:M3NEmzRMIkIC"
     },
     {
+        "title": "A Roadmap for the Democratization of Space-Based Communications",
+        "pub_year": "2024",
+        "citation": "networks 7, 14, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AgCgDcUAAAAJ:rO6llkc54NcC"
+    },
+    {
         "title": "A Study of the Wind Potential in Climatic Zones of Chad",
         "pub_year": "2018",
         "citation": "Innovations and Interdisciplinary Solutions for Underserved Areas, 100, 2018",
@@ -170,7 +177,7 @@
         "title": "Design of network topology in an adversarial environment",
         "pub_year": "2010",
         "citation": "Decision and Game Theory for Security: First International Conference …, 2010",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "AgCgDcUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -190,7 +197,7 @@
         "title": "Evaluating Mobile Banking Application Security Posture Using the OWASP’s MASVS Framework",
         "pub_year": "2023",
         "citation": "Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and …, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "AgCgDcUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -294,7 +301,7 @@
         "title": "Measurements of the most significant software security weaknesses",
         "pub_year": "2020",
         "citation": "Proceedings of the 36th Annual Computer Security Applications Conference …, 2020",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "AgCgDcUAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -360,6 +367,13 @@
         "author_pub_id": "AgCgDcUAAAAJ:YFjsv_pBGBYC"
     },
     {
+        "title": "Poster: Towards A Low-Cost Mobile Internet Measurement Infrastructure: An Initial Deployment in Africa",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 2024 ACM on Internet Measurement Conference, 791-792, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AgCgDcUAAAAJ:3s1wT3WcHBgC"
+    },
+    {
         "title": "Quantifying All-to-One network topology robustness under budget constraints",
         "pub_year": "2014",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 41 (4), 8-11, 2014",
@@ -418,7 +432,7 @@
         "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
         "pub_year": "2024",
         "citation": "2024 IEEE Symposium on Security and Privacy (SP), 752-769, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "AgCgDcUAAAAJ:g5m5HwL7SMYC"
     },
     {

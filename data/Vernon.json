@@ -137,14 +137,14 @@
         "title": "A roadmap for cognitive development in humanoid robots",
         "pub_year": "2011",
         "citation": "Springer Science & Business Media, 2011",
-        "num_citations": 171,
+        "num_citations": 172,
         "author_pub_id": "gcqbMxAAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "A survey of artificial cognitive systems: Implications for the autonomous development of mental capabilities in computational agents",
         "pub_year": "2007",
         "citation": "IEEE transactions on evolutionary computation 11 (2), 151-180, 2007",
-        "num_citations": 612,
+        "num_citations": 615,
         "author_pub_id": "gcqbMxAAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -186,7 +186,7 @@
         "title": "Action selection and execution in everyday activities: A cognitive robotics and situation model perspective",
         "pub_year": "2022",
         "citation": "Topics in cognitive science 14 (2), 344-362, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "gcqbMxAAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -255,7 +255,7 @@
         "title": "Artificial cognitive systems: A primer",
         "pub_year": "2014",
         "citation": "MIT Press, 2014",
-        "num_citations": 283,
+        "num_citations": 284,
         "author_pub_id": "gcqbMxAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -363,7 +363,7 @@
         "title": "Cognitive robotics",
         "pub_year": "2021",
         "citation": "Encyclopedia of Robotics, 1-7, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "gcqbMxAAAAAJ:tYavs44e6CUC"
     },
     {
@@ -567,7 +567,7 @@
         "title": "Embodied cognition and circular causality: on the role of constitutive autonomy in the reciprocal coupling of perception and action",
         "pub_year": "2015",
         "citation": "Frontiers in psychology 6, 1660, 2015",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "gcqbMxAAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -669,7 +669,7 @@
         "title": "How to build a supervised autonomous system for robot-enhanced therapy for children with autism spectrum disorder",
         "pub_year": "2017",
         "citation": "Paladyn, Journal of Behavioral Robotics 8 (1), 18-38, 2017",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "gcqbMxAAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -690,13 +690,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "gcqbMxAAAAAJ:ye4kPcJQO24C"
-    },
-    {
-        "title": "Icub-The design and realization of an open humanoid platform for cognitive and neuroscience research",
-        "pub_year": "2007",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "gcqbMxAAAAAJ:umqufdRvDiIC"
     },
     {
         "title": "Image Registration by",
@@ -823,7 +816,7 @@
         "title": "Machine vision: Automated visual inspection and robot vision",
         "pub_year": "1991",
         "citation": "Prentice-Hall, Inc., 1991",
-        "num_citations": 629,
+        "num_citations": 631,
         "author_pub_id": "gcqbMxAAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -905,7 +898,7 @@
         "title": "Optical device for computation of binocular stereo disparity with a single static camera",
         "pub_year": "2003",
         "citation": "Opto-Ireland 2002: Optical Metrology, Imaging, and Machine Vision 4877, 38-46, 2003",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "gcqbMxAAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -1007,7 +1000,7 @@
         "title": "Prospection in cognition: the case for joint episodic-procedural memory in cognitive robotics",
         "pub_year": "2015",
         "citation": "Frontiers in Robotics and AI 2, 19, 2015",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "gcqbMxAAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -1034,7 +1027,7 @@
         "title": "Realizing the potential of ai in africa: It all turns on trust",
         "pub_year": "2022",
         "citation": "Towards Trustworthy Artificial Intelligent Systems, 179-192, 2022",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "gcqbMxAAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1072,13 +1065,6 @@
         "author_pub_id": "gcqbMxAAAAAJ:RYcK_YlVTxYC"
     },
     {
-        "title": "Rendering Virtual Environments From Photographs: An Autonomous, Image {based Approach For Telepresence Applications",
-        "pub_year": "1998",
-        "citation": "Master's thesis, Dept. of Computer Science, Clemson University, 1998",
-        "num_citations": 2,
-        "author_pub_id": "gcqbMxAAAAAJ:HoB7MX3m0LUC"
-    },
-    {
         "title": "Robot Vision",
         "pub_year": "1986",
         "citation": "Trinity College Dublin., 1986",
@@ -1089,7 +1075,7 @@
         "title": "Robot-enhanced therapy: Development and validation of supervised autonomous robotic system for autism spectrum disorders therapy",
         "pub_year": "2019",
         "citation": "IEEE robotics & automation magazine 26 (2), 49-58, 2019",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "gcqbMxAAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -1110,7 +1096,7 @@
         "title": "Robotics and artificial intelligence in africa [regional]",
         "pub_year": "2019",
         "citation": "IEEE Robotics & Automation Magazine 26 (4), 131-135, 2019",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "gcqbMxAAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -1145,7 +1131,7 @@
         "title": "Simple pinhole camera calibration",
         "pub_year": "1994",
         "citation": "International Journal of Imaging Systems and Technology 5 (1), 1-6, 1994",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "gcqbMxAAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1179,14 +1165,14 @@
         "title": "The CRAM cognitive architecture for robot manipulation in everyday activities",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2304.14119, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "gcqbMxAAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "The DREAM Dataset: Supporting a data-driven study of autism spectrum disorder and robot enhanced therapy",
         "pub_year": "2020",
         "citation": "PloS one 15 (8), e0236939, 2020",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "gcqbMxAAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -1296,21 +1282,21 @@
         "title": "The iCub humanoid robot: An open-systems platform for research in cognitive development",
         "pub_year": "2010",
         "citation": "Neural networks 23 (8-9), 1125-1134, 2010",
-        "num_citations": 688,
+        "num_citations": 692,
         "author_pub_id": "gcqbMxAAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "The iCub humanoid robot: an open platform for research in embodied cognition",
         "pub_year": "2008",
         "citation": "Proceedings of the 8th workshop on performance metrics for intelligent …, 2008",
-        "num_citations": 775,
+        "num_citations": 777,
         "author_pub_id": "gcqbMxAAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "The icub cognitive architecture: Interactive development in a humanoid robot",
         "pub_year": "2007",
         "citation": "2007 IEEE 6th international conference on development and learning, 122-127, 2007",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "gcqbMxAAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -1324,7 +1310,7 @@
         "title": "The role of cognitive architectures in general artificial intelligence",
         "pub_year": "2018",
         "citation": "Cognitive Systems Research 48, 1-3, 2018",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "gcqbMxAAAAAJ:dQ2og3OwTAUC"
     },
     {

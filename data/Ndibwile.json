@@ -31,7 +31,7 @@
         "title": "A mechanism for prevention of flooding based ddos attack",
         "pub_year": "2017",
         "citation": "International Journal of Computational Intelligence Research 13 (1), 101-111, 2017",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "tRmAOagAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -61,6 +61,12 @@
         "author_pub_id": "tRmAOagAAAAJ:QIV2ME_5wuYC"
     },
     {
+        "title": "Ashraf Darwish, Helwan University, Russia Almas Abbasi, International Islamic University Islamabad, Pakistan Yanqi Gu, University of California, USA",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "tRmAOagAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
         "title": "Authentication of  Web-Server Traffic through Machine Learning for DDoS Attack Detection and Prevention",
         "pub_year": "2015",
         "citation": "Jawaharlal Nehru Technological University, 2015",
@@ -78,21 +84,21 @@
         "title": "Classifying swahili smishing attacks for mobile money users: A machine-learning approach",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 83061-83074, 2022",
-        "num_citations": 24,
+        "num_citations": 27,
         "author_pub_id": "tRmAOagAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Detection of username enumeration attack on ssh protocol: Machine learning approach",
         "pub_year": "2021",
         "citation": "Symmetry 13 (11), 2192, 2021",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "tRmAOagAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "FakeAP Detector: An Android-Based Client-Side Application for Detecting Wi-Fi Hotspot Spoofing",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 13611-13623, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "tRmAOagAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -112,7 +118,7 @@
         "title": "IoT-Based Control and Monitoring System of a Solar-Powered Brushless DC Motor for Agro-Machines",
         "pub_year": "2022",
         "citation": "International Conference on Technological Advancement in Embedded and Mobile …, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "tRmAOagAAAAJ:TQgYirikUcIC"
     },
     {
@@ -167,7 +173,7 @@
         "title": "Security of Cryptocurrencies in blockchain technology: State-of-art, challenges and future prospects",
         "pub_year": "2020",
         "citation": "Journal of Network and Computer Applications 163, 102635, 2020",
-        "num_citations": 241,
+        "num_citations": 246,
         "author_pub_id": "tRmAOagAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -209,13 +215,13 @@
         "title": "Uncovering SMS spam in swahili text using deep learning approaches",
         "pub_year": "2024",
         "citation": "IEEE Access, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "tRmAOagAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Validation Agents and Persuasive Designs for Phishing Detection and Update Compliance on Smartphones",
         "pub_year": "2019",
-        "citation": "(No Title), 2019",
+        "citation": "奈良先端科学技術大学院大学, 2019",
         "num_citations": 0,
         "author_pub_id": "tRmAOagAAAAJ:0EnyYjriUFMC"
     },

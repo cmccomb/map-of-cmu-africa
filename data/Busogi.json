@@ -17,7 +17,7 @@
         "title": "Adaptive SVM-based real-time quality assessment for primer-sealer dispensing process of sunroof assembly line",
         "pub_year": "2019",
         "citation": "Reliability Engineering & System Safety 184, 202-212, 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "TEMlkDMAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Analytical modeling of human choice complexity in a mixed model assembly line using machine learning-based human in the loop simulation",
         "pub_year": "2017",
         "citation": "IEEE Access 5, 10434-10444, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "TEMlkDMAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -100,7 +100,7 @@
         "title": "Forecasting warping deformation using multivariate thermal time series and K-nearest neighbors in fused deposition modeling",
         "pub_year": "2020",
         "citation": "Applied Sciences 10 (24), 8951, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "TEMlkDMAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -109,6 +109,13 @@
         "citation": "SAIEE Africa Research Journal 111 (4), 138-138, 2020",
         "num_citations": 0,
         "author_pub_id": "TEMlkDMAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Increasing Accessibility of 3D-Printed Customized Prosthetics in Resource-Constrained Communities",
+        "pub_year": "2024",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "TEMlkDMAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "MODELING OF TASK COMPLEXITY IN HUMAN-CENTERED SYSTEMS",
@@ -128,14 +135,14 @@
         "title": "Real-time quality monitoring and control system using an integrated cost effective support vector machine",
         "pub_year": "2019",
         "citation": "Journal of Mechanical Science and Technology 33, 6009-6020, 2019",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "TEMlkDMAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Reducing the Barriers to Designing 3D-Printable Prosthetics In Resource-Constrained Environments",
         "pub_year": "2023",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "TEMlkDMAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -149,7 +156,7 @@
         "title": "Weighted affordance-based agent modeling and simulation in emergency evacuation",
         "pub_year": "2017",
         "citation": "Safety science 96, 209-227, 2017",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "TEMlkDMAAAAJ:IjCSPb-OGe4C"
     },
     {

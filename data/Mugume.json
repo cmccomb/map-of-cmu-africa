@@ -37,7 +37,7 @@
         "title": "A survey of 5G for rural broadband connectivity",
         "pub_year": "2021",
         "citation": "2021 IST-Africa Conference (IST-Africa), 1-10, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "LMW7_-YAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -135,6 +135,13 @@
         "citation": "SAIEE Africa Research Journal 114 (2), 40-48, 2023",
         "num_citations": 9,
         "author_pub_id": "LMW7_-YAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Poster: Analysis of the Internet Ecosystem in East Africa: DNS resolution, ASN peering, and Utilization of IXPs.",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 2024 ACM on Internet Measurement Conference, 785-786, 2024",
+        "num_citations": 0,
+        "author_pub_id": "LMW7_-YAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "SAIEE Africa Research Journal",
