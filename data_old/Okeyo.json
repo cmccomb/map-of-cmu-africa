@@ -24,7 +24,7 @@
         "title": "A Hybrid Approach for Personalized Recommender System Using Weighted Term Frequency Inverse Document Frequency",
         "pub_year": "2018",
         "citation": "JKUAT-COPAS, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "oyaImDQAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -50,7 +50,7 @@
     {
         "title": "A Stacking Approach to Direct Marketing Response Modeling",
         "pub_year": "2018",
-        "citation": "Asian Journal of Research in Computer Science 1 (2), 1-13, 2018",
+        "citation": "Asian Journal of Research in Computer Science, 2018",
         "num_citations": 0,
         "author_pub_id": "oyaImDQAAAAJ:_Qo2XoVZTnwC"
     },
@@ -135,7 +135,7 @@
         "title": "A survey on privacy and security of Internet of Things",
         "pub_year": "2020",
         "citation": "Computer Science Review 38, 100312, 2020",
-        "num_citations": 186,
+        "num_citations": 193,
         "author_pub_id": "oyaImDQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -197,7 +197,7 @@
         "title": "An ontology-based hybrid approach to activity modeling for smart homes",
         "pub_year": "2013",
         "citation": "IEEE Transactions on human-machine systems 44 (1), 92-105, 2013",
-        "num_citations": 192,
+        "num_citations": 193,
         "author_pub_id": "oyaImDQAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -239,14 +239,14 @@
         "title": "Detecting Phishing Attacks Using Feature Importance-Based Machine Learning Approach",
         "pub_year": "2023",
         "citation": "2023 IEEE AFRICON, 2023",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "oyaImDQAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Dynamic sensor data segmentation for real-time knowledge-driven activity recognition",
         "pub_year": "2014",
         "citation": "Pervasive and Mobile Computing 10, 155-172, 2014",
-        "num_citations": 218,
+        "num_citations": 219,
         "author_pub_id": "oyaImDQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "Feature selection for classification using principal component analysis and information gain",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications 174, 114765, 2021",
-        "num_citations": 258,
+        "num_citations": 262,
         "author_pub_id": "oyaImDQAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -322,7 +322,7 @@
         "title": "Infrastructure as Code for Business Continuity in Institutions of Higher Learning",
         "pub_year": "2021",
         "citation": "2021 International Conference on Electrical, Computer and Energy …, 2021",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "oyaImDQAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -363,7 +363,7 @@
         "title": "Modeling the risk of invasion and spread of Tuta absoluta in Africa",
         "pub_year": "2016",
         "citation": "Ecological Complexity 28, 77-93, 2016",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "oyaImDQAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -412,28 +412,28 @@
         "title": "RFID-based location based services framework for alerting on black spots for accident prevention",
         "pub_year": "2021",
         "citation": "Egypt. Informatics J., no. xxxx, 2021",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "oyaImDQAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Scoped class cohesion metric for software process assessment",
         "pub_year": "2016",
         "citation": "International Journal of Computer Science Issues (IJCSI) 13 (2), 12, 2016",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "oyaImDQAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (3), 1445, 2023",
-        "num_citations": 86,
+        "num_citations": 92,
         "author_pub_id": "oyaImDQAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Sentiment analysis on social media tweets using dimensionality reduction and natural language processing",
         "pub_year": "2023",
         "citation": "Engineering Reports 5 (3), e12579, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "oyaImDQAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -552,14 +552,14 @@
         "title": "Using Naïve Bayes algorithm in detection of hate tweets",
         "pub_year": "2018",
         "citation": "International Journal of Scientific and Research Publications 8 (3), 99-107, 2018",
-        "num_citations": 57,
+        "num_citations": 59,
         "author_pub_id": "oyaImDQAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Using apriori algorithm technique to analyze crime patterns for kenyan national crime data: A county perspective",
         "pub_year": "2020",
         "citation": "2020 IST-Africa Conference (IST-Africa), 1-8, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "oyaImDQAAAAJ:pqnbT2bcN3wC"
     },
     {

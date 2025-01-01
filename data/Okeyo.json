@@ -121,7 +121,7 @@
         "title": "A review of SOAP performance optimization techniques to improve communication in web services in loosely coupled systems",
         "pub_year": "2014",
         "citation": "International Journal of Computer Science Issues (IJCSI) 11 (2), 142, 2014",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "oyaImDQAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -135,7 +135,7 @@
         "title": "A survey on privacy and security of Internet of Things",
         "pub_year": "2020",
         "citation": "Computer Science Review 38, 100312, 2020",
-        "num_citations": 193,
+        "num_citations": 206,
         "author_pub_id": "oyaImDQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -151,6 +151,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "oyaImDQAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "AI-Driven Precision Farming: A Holistic Approach to Enhance Food and Nutrition Security in Africa",
+        "pub_year": "2024",
+        "citation": "2024 IEEE International Conference on Omni-layer Intelligent Systems (COINS …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "oyaImDQAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Adaptive Cluster Head Selection Scheme for High Mobility Based IEEE 802.15. 6 Wireless Body Area Networks",
@@ -197,14 +204,14 @@
         "title": "An ontology-based hybrid approach to activity modeling for smart homes",
         "pub_year": "2013",
         "citation": "IEEE Transactions on human-machine systems 44 (1), 92-105, 2013",
-        "num_citations": 193,
+        "num_citations": 194,
         "author_pub_id": "oyaImDQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Combining ontological and temporal formalisms for composite activity modelling and recognition in smart homes",
         "pub_year": "2014",
         "citation": "Future Generation Computer Systems 39, 29-43, 2014",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "oyaImDQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -246,7 +253,7 @@
         "title": "Dynamic sensor data segmentation for real-time knowledge-driven activity recognition",
         "pub_year": "2014",
         "citation": "Pervasive and Mobile Computing 10, 155-172, 2014",
-        "num_citations": 219,
+        "num_citations": 220,
         "author_pub_id": "oyaImDQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -267,14 +274,14 @@
         "title": "Feature selection for classification using principal component analysis and information gain",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications 174, 114765, 2021",
-        "num_citations": 262,
+        "num_citations": 285,
         "author_pub_id": "oyaImDQAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Framework for improving usability of learning management systems by integrating pedagogical agent",
         "pub_year": "2017",
         "citation": "International Journal of Computer Applications 166 (8), 7-16, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "oyaImDQAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -287,8 +294,8 @@
     {
         "title": "Hybrid IEEE 802.15. 6 wireless body area networks interference mitigation model for high mobility interference scenarios",
         "pub_year": "2018",
-        "citation": "Wireless Engineering and Technology 9 (2), 34-48, 2018",
-        "num_citations": 18,
+        "citation": "Wireless Engineering and Technology, 2018",
+        "num_citations": 20,
         "author_pub_id": "oyaImDQAAAAJ:TQgYirikUcIC"
     },
     {
@@ -342,7 +349,7 @@
         "title": "Lexicon‐pointed hybrid N‐gram Features Extraction Model (LeNFEM) for sentence level sentiment analysis",
         "pub_year": "2021",
         "citation": "Engineering Reports 3 (8), e12374, 2021",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "oyaImDQAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -384,7 +391,7 @@
         "title": "Ontology-based learning framework for activity assistance in an adaptive smart home",
         "pub_year": "2011",
         "citation": "Activity recognition in pervasive intelligent environments, 237-263, 2011",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "oyaImDQAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -426,14 +433,14 @@
         "title": "Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (3), 1445, 2023",
-        "num_citations": 92,
+        "num_citations": 97,
         "author_pub_id": "oyaImDQAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Sentiment analysis on social media tweets using dimensionality reduction and natural language processing",
         "pub_year": "2023",
         "citation": "Engineering Reports 5 (3), e12579, 2023",
-        "num_citations": 25,
+        "num_citations": 28,
         "author_pub_id": "oyaImDQAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -454,7 +461,7 @@
         "title": "Techniques for Smart Traffic Control: An In-depth Review",
         "pub_year": "2015",
         "citation": "International Journal of Computer Applications Technology and Research 4 (7 …, 2015",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "oyaImDQAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -468,7 +475,7 @@
         "title": "Telecommuting model for small and medium enterprises (SMES) in Kenya",
         "pub_year": "2016",
         "citation": "European Journal of Computer Science and Information Technology 4 (4), 13-19, 2016",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "oyaImDQAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -552,7 +559,7 @@
         "title": "Using Naïve Bayes algorithm in detection of hate tweets",
         "pub_year": "2018",
         "citation": "International Journal of Scientific and Research Publications 8 (3), 99-107, 2018",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "oyaImDQAAAAJ:NMxIlDl6LWMC"
     },
     {
