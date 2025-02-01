@@ -10,7 +10,7 @@
         "title": "A Game or Notes? The Use of a Customized Mobile Game to Improve Teenagers’ Phishing Knowledge, Case of Tanzania",
         "pub_year": "2022",
         "citation": "Journal of Cybersecurity and Privacy 2 (3), 466-489, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "tRmAOagAAAAJ:dhFuZR0502QC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "An Empirical Approach to Phishing Countermeasures through Smart Glasses and Validation Agents",
         "pub_year": "2019",
         "citation": "IEEE Access, 2019",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "tRmAOagAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -84,7 +84,7 @@
         "title": "Classifying swahili smishing attacks for mobile money users: A machine-learning approach",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 83061-83074, 2022",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "tRmAOagAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -98,7 +98,7 @@
         "title": "FakeAP Detector: An Android-Based Client-Side Application for Detecting Wi-Fi Hotspot Spoofing",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 13611-13623, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "tRmAOagAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -173,7 +173,7 @@
         "title": "Security of Cryptocurrencies in blockchain technology: State-of-art, challenges and future prospects",
         "pub_year": "2020",
         "citation": "Journal of Network and Computer Applications 163, 102635, 2020",
-        "num_citations": 246,
+        "num_citations": 257,
         "author_pub_id": "tRmAOagAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -182,6 +182,13 @@
         "citation": "Engineering, Technology & Applied Science Research, 2022",
         "num_citations": 0,
         "author_pub_id": "tRmAOagAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+        "title": "Smart4Gap",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 2018 10th International Conference on Information …, 2018",
+        "num_citations": 0,
+        "author_pub_id": "tRmAOagAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Smart4gap: Factors that influence smartphone security decisions in developing and developed countries",
@@ -201,21 +208,21 @@
         "title": "To coerce or not to coerce? a quantitative investigation on cybersecurity and cybercrime legislations towards large-scale vulnerability notifications",
         "pub_year": "2019",
         "citation": "2019 IEEE International Symposium on Software Reliability Engineering …, 2019",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "tRmAOagAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "UnPhishMe: Phishing attack detection by deceptive login simulation through an Android mobile app",
         "pub_year": "2017",
         "citation": "2017 12th Asia Joint Conference on Information Security (AsiaJCIS), 38-47, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "tRmAOagAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Uncovering SMS spam in swahili text using deep learning approaches",
         "pub_year": "2024",
         "citation": "IEEE Access, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "tRmAOagAAAAJ:mB3voiENLucC"
     },
     {
@@ -229,7 +236,7 @@
         "title": "Web Server protection against application layer DDoS attacks using machine learning and traffic authentication",
         "pub_year": "2015",
         "citation": "2015 IEEE 39th Annual Computer Software and Applications Conference 3, 261-267, 2015",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "tRmAOagAAAAJ:u-x6o8ySG0sC"
     }
 ]

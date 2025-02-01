@@ -79,7 +79,7 @@
         "title": "A hybrid framework for cloud computing adoption for small and medium size enterprises",
         "pub_year": "2018",
         "citation": "International Journal 7 (4), 2018",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "oyaImDQAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -135,7 +135,7 @@
         "title": "A survey on privacy and security of Internet of Things",
         "pub_year": "2020",
         "citation": "Computer Science Review 38, 100312, 2020",
-        "num_citations": 206,
+        "num_citations": 211,
         "author_pub_id": "oyaImDQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -162,7 +162,7 @@
     {
         "title": "Adaptive Cluster Head Selection Scheme for High Mobility Based IEEE 802.15. 6 Wireless Body Area Networks",
         "pub_year": "2018",
-        "citation": "Scientific Research Publishing, 2018",
+        "citation": "Journal of Sensor Technology 8 (2), 35-47, 2018",
         "num_citations": 1,
         "author_pub_id": "oyaImDQAAAAJ:mB3voiENLucC"
     },
@@ -183,13 +183,13 @@
         "title": "An Image Denoising Technique Using Wavelet-Anisotropic Gaussian Filter-Based Denoising Convolutional Neural Network for CT Images",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (21), 12069, 2023",
-        "num_citations": 8,
+        "num_citations": 12,
         "author_pub_id": "oyaImDQAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "An agent-mediated ontology-based approach for composite activity recognition in smart homes",
         "pub_year": "2013",
-        "citation": "JOURNAL OF UNIVERSAL COMPUTER SCIENCE, 2013",
+        "citation": "Journal of Universal Computer Science (JUCS) 19 (17), 2577-2597, 2013",
         "num_citations": 19,
         "author_pub_id": "oyaImDQAAAAJ:zYLM7Y9cAGgC"
     },
@@ -204,14 +204,14 @@
         "title": "An ontology-based hybrid approach to activity modeling for smart homes",
         "pub_year": "2013",
         "citation": "IEEE Transactions on human-machine systems 44 (1), 92-105, 2013",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "oyaImDQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Combining ontological and temporal formalisms for composite activity modelling and recognition in smart homes",
         "pub_year": "2014",
         "citation": "Future Generation Computer Systems 39, 29-43, 2014",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "oyaImDQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -274,14 +274,14 @@
         "title": "Feature selection for classification using principal component analysis and information gain",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications 174, 114765, 2021",
-        "num_citations": 285,
+        "num_citations": 294,
         "author_pub_id": "oyaImDQAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Framework for improving usability of learning management systems by integrating pedagogical agent",
         "pub_year": "2017",
         "citation": "International Journal of Computer Applications 166 (8), 7-16, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "oyaImDQAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -317,6 +317,18 @@
         "citation": "Springer, 2012",
         "num_citations": 4,
         "author_pub_id": "oyaImDQAAAAJ:KxtntwgDAa4C"
+    },
+    {
+        "title": "Improved Collaborative Filtering Recommender System Based on Hybrid Similarity Measures",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "oyaImDQAAAAJ:l7t_Zn2s7bgC"
+    },
+    {
+        "title": "Improved Collaborative Filtering Recommender System Based on Hybrid Similarity Measures",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "oyaImDQAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Information Security Management Framework for E-Government in the Kenyan Public Sector: A Case of the Ministry of Public Service, Youth and Gender Affairs",
@@ -370,7 +382,7 @@
         "title": "Modeling the risk of invasion and spread of Tuta absoluta in Africa",
         "pub_year": "2016",
         "citation": "Ecological Complexity 28, 77-93, 2016",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "oyaImDQAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -419,7 +431,7 @@
         "title": "RFID-based location based services framework for alerting on black spots for accident prevention",
         "pub_year": "2021",
         "citation": "Egypt. Informatics J., no. xxxx, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "oyaImDQAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -433,21 +445,21 @@
         "title": "Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (3), 1445, 2023",
-        "num_citations": 97,
+        "num_citations": 101,
         "author_pub_id": "oyaImDQAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Sentiment analysis on social media tweets using dimensionality reduction and natural language processing",
         "pub_year": "2023",
         "citation": "Engineering Reports 5 (3), e12579, 2023",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "oyaImDQAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Smart traffic light control using fuzzy logic and wireless sensor network",
         "pub_year": "2017",
         "citation": "2017 Computing Conference, 450-460, 2017",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "oyaImDQAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -461,7 +473,7 @@
         "title": "Techniques for Smart Traffic Control: An In-depth Review",
         "pub_year": "2015",
         "citation": "International Journal of Computer Applications Technology and Research 4 (7 …, 2015",
-        "num_citations": 55,
+        "num_citations": 58,
         "author_pub_id": "oyaImDQAAAAJ:WF5omc3nYNoC"
     },
     {

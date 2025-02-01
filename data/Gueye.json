@@ -174,6 +174,13 @@
         "author_pub_id": "AgCgDcUAAAAJ:8k81kl-MbHgC"
     },
     {
+        "title": "Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.18716, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AgCgDcUAAAAJ:u_35RYKgDlwC"
+    },
+    {
         "title": "Design of network topology in an adversarial environment",
         "pub_year": "2010",
         "citation": "Decision and Game Theory for Security: First International Conference …, 2010",
@@ -197,7 +204,7 @@
         "title": "Evaluating Mobile Banking Application Security Posture Using the OWASP’s MASVS Framework",
         "pub_year": "2023",
         "citation": "Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and …, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "AgCgDcUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -308,7 +315,7 @@
         "title": "Measurements of the most significant software security weaknesses",
         "pub_year": "2020",
         "citation": "Proceedings of the 36th Annual Computer Security Applications Conference …, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "AgCgDcUAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -349,7 +356,7 @@
         "title": "Network topology vulnerability/cost trade-off: Model, application, and computational complexity",
         "pub_year": "2015",
         "citation": "Internet Mathematics 11 (6), 588-626, 2015",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "AgCgDcUAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -439,7 +446,7 @@
         "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
         "pub_year": "2024",
         "citation": "2024 IEEE Symposium on Security and Privacy (SP), 752-769, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "AgCgDcUAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -466,14 +473,14 @@
         "title": "Towards a metric for communication network vulnerability to attacks: A game theoretic approach",
         "pub_year": "2012",
         "citation": "Game Theory for Networks: Third International ICST Conference, GameNets 2012 …, 2012",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "AgCgDcUAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.00830, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "AgCgDcUAAAAJ:pqnbT2bcN3wC"
     },
     {

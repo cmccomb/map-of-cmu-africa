@@ -35,9 +35,9 @@
         "author_pub_id": "AgCgDcUAAAAJ:M3NEmzRMIkIC"
     },
     {
-        "title": "A Roadmap for the Democratization of Space-Based Communications",
+        "title": "A Road map for the Democratization of Space-Based Communications",
         "pub_year": "2024",
-        "citation": "networks 7, 14, 2024",
+        "citation": "Proceedings of the 23rd ACM Workshop on Hot Topics in Networks, 17-24, 2024",
         "num_citations": 0,
         "author_pub_id": "AgCgDcUAAAAJ:rO6llkc54NcC"
     },
@@ -59,7 +59,7 @@
         "title": "A convex upper bound on the log-partition function for binary graphical models",
         "pub_year": "2008",
         "citation": "Proc. NIPS, 2008",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "AgCgDcUAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "A study of the wind potential in climatic zones of Chad",
         "pub_year": "2018",
         "citation": "Innovations and Interdisciplinary Solutions for Underserved Areas: Second …, 2018",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "AgCgDcUAAAAJ:dhFuZR0502QC"
     },
     {
@@ -220,6 +220,13 @@
         "citation": "Game Theory for Networks: 2nd International ICST Conference, GAMENETS 2011 …, 2012",
         "num_citations": 36,
         "author_pub_id": "AgCgDcUAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "HumekaFL: Automated Detection of Neonatal Asphyxia Using Federated Learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.01167, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AgCgDcUAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "INNOVATIONS ET SOLUTIONS INTERDISCIPLINAIRES POUR LES ZONES MAL DESSERVIES",
@@ -473,7 +480,7 @@
         "title": "West Africa conference on digital public goods and cybersecurity",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "AgCgDcUAAAAJ:lSLTfruPkqcC"
     }
 ]

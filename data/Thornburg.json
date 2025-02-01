@@ -3,28 +3,28 @@
         "title": "A Probabilistic Tool for Modeling Smart Microgrids with Renewable Energy and Demand Side Management",
         "pub_year": "2022",
         "citation": "2022 International Conference on Computational Intelligence and Sustainable …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "vVhcBXoAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "A tool for assessing demand side management and operating strategies for isolated microgrids",
         "pub_year": "2021",
         "citation": "Energy for Sustainable Development 64, 15-24, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "vVhcBXoAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "A tool for probabilistic evaluation of microgrid operating strategies with demand side management",
         "pub_year": "2018",
         "citation": "Carnegie Mellon University, 2018",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vVhcBXoAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Automated planning of rooftop PV systems with aerial image processing",
         "pub_year": "2018",
         "citation": "2018 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC …, 2018",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "vVhcBXoAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Comparison of lead-acid and lithium ion batteries for stationary storage in off-grid energy systems",
         "pub_year": "2016",
         "citation": "IET Digital Library, 2016",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "vVhcBXoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -80,7 +80,7 @@
         "title": "Institutional influence on power sector investments: A case study of on-and off-grid energy in Kenya and Tanzania",
         "pub_year": "2018",
         "citation": "Energy research & social science 41, 59-70, 2018",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "vVhcBXoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -122,8 +122,15 @@
         "title": "Simulating energy management strategies for microgrids with smart meter demand management",
         "pub_year": "2017",
         "citation": "2017 IEEE PES PowerAfrica, 600-605, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "vVhcBXoAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "Simulation of PEM Electrolyzer Power Management with Renewable Generation in Owerri, Nigeria",
+        "pub_year": "2025",
+        "citation": "Energies 18 (1), 208, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vVhcBXoAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Smart Grids",
@@ -149,7 +156,7 @@
         "title": "Stochastic simulator for smart microgrid planning",
         "pub_year": "2016",
         "citation": "Proceedings of the 7th Annual Symposium on Computing for Development, 1-4, 2016",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "vVhcBXoAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -170,7 +177,7 @@
         "title": "Towards an energy future with ubiquitous electric vehicles: Barriers and opportunities",
         "pub_year": "2023",
         "citation": "Energies 16 (17), 6379, 2023",
-        "num_citations": 27,
+        "num_citations": 31,
         "author_pub_id": "vVhcBXoAAAAJ:UebtZRa9Y70C"
     }
 ]

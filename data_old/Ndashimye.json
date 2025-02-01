@@ -24,7 +24,7 @@
         "title": "A network selection method for handover in vehicle-to-infrastructure communications in multi-tier networks",
         "pub_year": "2020",
         "citation": "Wireless Networks 26 (1), 387-401, 2020",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "6y_k3EgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Adopting a Neuro-Fuzzy Logic Method for Fall Armyworm Detection and Monitoring Using C-Band Polarimetric Doppler Weather Radar with Field Verification",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Geoscience and Remote Sensing, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "6y_k3EgAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -66,8 +66,14 @@
         "title": "An IoT-alert system for chronic asthma patients",
         "pub_year": "2020",
         "citation": "2020 11th IEEE Annual Information Technology, Electronics and Mobile …, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "6y_k3EgAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+        "title": "Balancing Complexity and Performance of Machine Learning Models for On-Farm Acoustic Monitoring",
+        "citation": "Available at SSRN 4981338, 0",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Bird Sound Classification Using GLCM Features and LightGBM Applied to Farm Monitoring",
@@ -82,6 +88,13 @@
         "citation": "Auckland University of Technology, 2018",
         "num_citations": 0,
         "author_pub_id": "6y_k3EgAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "Enhancing Identification of Meteorological and Biological Targets Using the Depolarization Ratio for Weather Radar: A Case Study of FAW Outbreak in Rwanda",
+        "pub_year": "2024",
+        "citation": "Remote Sensing 16 (14), 2509, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Ground clutter mitigation and insect signature detection for polarimetric C-band doppler weather radar",
@@ -126,6 +139,13 @@
         "author_pub_id": "6y_k3EgAAAAJ:IjCSPb-OGe4C"
     },
     {
+        "title": "Rwandan Farmers’ Perceptions of the Acoustic Environment and the Potential for Acoustic Monitoring",
+        "pub_year": "2024",
+        "citation": "Agriculture 15 (1), 25, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:KlAtU1dfN6UC"
+    },
+    {
         "title": "Signal Preprocessing Towards IoT Acoustic Data for Farm Pest Detection",
         "pub_year": "2023",
         "citation": "IEEE Xplore, 2023",
@@ -154,10 +174,17 @@
         "author_pub_id": "6y_k3EgAAAAJ:W7OEmFMy1HYC"
     },
     {
+        "title": "System Design for a Prototype Acoustic Network to Deter Avian Pests in Agriculture Fields",
+        "pub_year": "2024",
+        "citation": "Agriculture 15 (1), 10, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6y_k3EgAAAAJ:kNdYIx-mwKoC"
+    },
+    {
         "title": "Vehicle-to-infrastructure communication over multi-tier heterogeneous networks: A survey",
         "pub_year": "2017",
         "citation": "Computer networks 112, 144-166, 2017",
-        "num_citations": 124,
+        "num_citations": 126,
         "author_pub_id": "6y_k3EgAAAAJ:2osOgNQ5qMEC"
     }
 ]

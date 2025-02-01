@@ -31,7 +31,7 @@
         "title": "A multi-modal wireless sensor system for river monitoring: A case for Kikuletwa river floods in Tanzania",
         "pub_year": "2023",
         "citation": "Sensors 23 (8), 4055, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "KZ5QmxQAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -45,21 +45,21 @@
         "title": "A review of characterization approaches for smallholder farmers: Towards predictive farm typologies",
         "pub_year": "2019",
         "citation": "The Scientific World Journal 2019 (1), 6121467, 2019",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "KZ5QmxQAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "A study of users’ compliance and satisfied utilization of biometric application system",
         "pub_year": "2021",
         "citation": "Information Security Journal: A Global Perspective 30 (3), 125-138, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "KZ5QmxQAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "An empirical approach to phishing countermeasures through smart glasses and validation agents",
         "pub_year": "2019",
         "citation": "IEEE Access 7, 130758-130771, 2019",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "KZ5QmxQAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -94,14 +94,14 @@
         "title": "Cattle Identification Using Muzzle Images and Deep Learning Techniques",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.08148, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "KZ5QmxQAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Characteristics of smallholder dairy farms by association rules mining based on apriori algorithm",
         "pub_year": "2019",
         "citation": "International Journal of Society Systems Science 11 (2), 99-118, 2019",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "KZ5QmxQAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Development and validation of a mobile game for culturally sensitive child sexual abuse prevention education in Tanzania: mixed methods study",
         "pub_year": "2021",
         "citation": "JMIR Serious Games 9 (4), e30350, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "KZ5QmxQAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -156,7 +156,7 @@
         "title": "Extreme Rainfall Event Classification Using Machine Learning for Kikuletwa River Floods",
         "pub_year": "2023",
         "citation": "Water 15 (6), 1021, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "KZ5QmxQAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -177,7 +177,7 @@
         "title": "Identifying and evaluating user requirements for smartphone group fitness applications",
         "pub_year": "2018",
         "citation": "IEEE Access 6, 3256-3269, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "KZ5QmxQAAAAJ:blknAaTinKkC"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Maternal knowledge-seeking behavior among pregnant women in Tanzania",
         "pub_year": "2021",
         "citation": "Women's Health 17, 17455065211038442, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "KZ5QmxQAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -244,11 +244,25 @@
         "author_pub_id": "KZ5QmxQAAAAJ:_xSYboBqXhAC"
     },
     {
+        "title": "Smart gyms need smart mirrors",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 ACM International Joint Conference on Pervasive and …, 2017",
+        "num_citations": 0,
+        "author_pub_id": "KZ5QmxQAAAAJ:KxtntwgDAa4C"
+    },
+    {
         "title": "Smart gyms need smart mirrors: design of a smart gym concept through contextual inquiry",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 ACM International Joint Conference on Pervasive and …, 2017",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "KZ5QmxQAAAAJ:BqipwSGYUEgC"
+    },
+    {
+        "title": "Smart4Gap",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 2018 10th International Conference on Information …, 2018",
+        "num_citations": 0,
+        "author_pub_id": "KZ5QmxQAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Smart4gap: Factors that influence smartphone security decisions in developing and developed countries",
@@ -282,7 +296,7 @@
         "title": "The challenges of adopting M-learning assistive technologies for visually impaired learners in higher learning institution in Tanzania",
         "pub_year": "2020",
         "citation": "International Journal of Emerging Technologies in Learning (iJET), 2020",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "KZ5QmxQAAAAJ:rO6llkc54NcC"
     },
     {

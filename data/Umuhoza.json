@@ -24,7 +24,7 @@
         "title": "Automatic code generation for cross-platform, multi-device mobile apps: Some reflections from an industrial experience",
         "pub_year": "2015",
         "citation": "Proceedings of the 3rd International Workshop on Mobile Development …, 2015",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "rcGIhfMAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -135,8 +135,14 @@
         "title": "Model-driven development of user interfaces for IoT systems via domain-specific components and patterns",
         "pub_year": "2017",
         "citation": "Journal of Internet Services and Applications 8 (1), 14, 2017",
-        "num_citations": 95,
+        "num_citations": 98,
         "author_pub_id": "rcGIhfMAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "Model-driven development of user interfaces for iot systems via domain-specific components and patterns. J Internet Serv Appl. 2017; 8 (1): 14",
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "rcGIhfMAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Raising awareness for potential sustainability effects in Uganda: A survey-based empirical study",
@@ -169,7 +175,7 @@
         "title": "The design thinking of co-located vs. distributed software developers: distance strikes again!",
         "pub_year": "2020",
         "citation": "Proceedings of the 15th International Conference on Global Software …, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "rcGIhfMAAAAJ:KlAtU1dfN6UC"
     },
     {
