@@ -24,7 +24,7 @@
         "title": "A graphical design environment for quantitative decision models",
         "pub_year": "1988",
         "citation": "Expert Systems for Engineering Design, 197-217, 1988",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "wgrJnDgAAAAJ:fTLh7q_iUBEC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "Automated confirmation and disambiguation modules in voice applications",
         "pub_year": "2016",
         "citation": "US Patent 9,298,811, 2016",
-        "num_citations": 1,
+        "num_citations": 12,
         "author_pub_id": "wgrJnDgAAAAJ:1DdUqAzPfXgC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Coordinating user interfaces for consistency",
         "pub_year": "1989",
         "citation": "ACM Sigchi Bulletin 20 (3), 63-65, 1989",
-        "num_citations": 282,
+        "num_citations": 287,
         "author_pub_id": "wgrJnDgAAAAJ:tDdgxD0hSQMC"
     },
     {
@@ -112,7 +112,7 @@
         "author_pub_id": "wgrJnDgAAAAJ:AU0JsVlt-AkC"
     },
     {
-        "title": "DMML: An XML Language for Interacting with Multi-Modal Dialog Systems",
+        "title": "DMML: An XML Language for Interacting with Multi-modal Dialog Systems",
         "pub_year": "2000",
         "citation": "AAAI/IAAI, 1008-1013, 2000",
         "num_citations": 5,
@@ -129,7 +129,7 @@
         "title": "Demaps: A graphical decision support system",
         "pub_year": "1987",
         "citation": "IEEE Computer Society Workshop on Visual Languages, 1987",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "wgrJnDgAAAAJ:FKzTm0Bp8ZYC"
     },
     {
@@ -150,14 +150,14 @@
         "title": "Direct manipulation of programming: How should we design interfaces?",
         "pub_year": "1989",
         "citation": "Proceedings of the 2nd annual ACM SIGGRAPH symposium on User interface …, 1989",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "wgrJnDgAAAAJ:QLZAdv6BrvsC"
     },
     {
         "title": "Direct manipulation or programming: How should we design interfaces?",
         "pub_year": "1989",
         "citation": "Annual ACM Symposium on User Interface Software and Technology, 1989",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "wgrJnDgAAAAJ:H6myOybQgeYC"
     },
     {
@@ -178,14 +178,14 @@
         "title": "Evaluating an information system for policy modeling and uncertainty analysis",
         "pub_year": "1986",
         "citation": "Journal of the American Society for Information Science 37 (5), 319-330, 1986",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "wgrJnDgAAAAJ:bKwnt0rjkrwC"
     },
     {
         "title": "Expert systems for engineering design",
         "pub_year": "2012",
         "citation": "Elsevier, 2012",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "wgrJnDgAAAAJ:9hNLEifDsrsC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Generating user interfaces to highly interactive applications",
         "pub_year": "1989",
         "citation": "Human Factors in Computing Sys, 277-282, 1989",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "wgrJnDgAAAAJ:auQHJw8QJBgC"
     },
     {
@@ -276,7 +276,7 @@
         "title": "ITS: A tool for rapidly developing interactive applications",
         "pub_year": "1990",
         "citation": "ACM Transactions on Information Systems (TOIS) 8 (3), 204-236, 1990",
-        "num_citations": 251,
+        "num_citations": 248,
         "author_pub_id": "wgrJnDgAAAAJ:22I2CSi1iVUC"
     },
     {
@@ -318,14 +318,14 @@
         "title": "Linking multiple program views using a visual cache",
         "pub_year": "1987",
         "citation": "Human–Computer Interaction–INTERACT'87, 689-694, 1987",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "wgrJnDgAAAAJ:I8ubwoE7ciMC"
     },
     {
         "title": "Managing customer knowledge",
         "pub_year": "2000",
         "citation": "Journal of Business Strategy 21 (6), 35-35, 2000",
-        "num_citations": 96,
+        "num_citations": 95,
         "author_pub_id": "wgrJnDgAAAAJ:Vu1dURnyNv8C"
     },
     {
@@ -353,7 +353,7 @@
         "title": "Planning for goal-oriented dialogue systems",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1910.08137, 2019",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "wgrJnDgAAAAJ:zPkyA21Y468C"
     },
     {
@@ -486,7 +486,7 @@
         "title": "System for ordering items over computer network using an electronic catalog",
         "pub_year": "1999",
         "citation": "US Patent 5,870,717, 1999",
-        "num_citations": 510,
+        "num_citations": 512,
         "author_pub_id": "wgrJnDgAAAAJ:e3UXjaW_PBUC"
     },
     {
@@ -507,7 +507,7 @@
         "title": "Transformations on a dialog tree: rule-based maping of content to style",
         "pub_year": "1989",
         "citation": "Proceedings of the 2nd annual ACM SIGGRAPH symposium on User interface …, 1989",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "wgrJnDgAAAAJ:ZEcFV8kAgqMC"
     },
     {

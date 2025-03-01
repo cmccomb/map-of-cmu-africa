@@ -17,7 +17,7 @@
         "title": "A comparative study of smartphone-user security perception and preference towards redesigned security notifications",
         "pub_year": "2018",
         "citation": "Proceedings of the Second African Conference for Human Computer Interaction …, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "tRmAOagAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -28,10 +28,10 @@
         "author_pub_id": "tRmAOagAAAAJ:UebtZRa9Y70C"
     },
     {
-        "title": "A mechanism for prevention of flooding based ddos attack",
+        "title": "A mechanism for prevention of flooding based DDoS attack",
         "pub_year": "2017",
         "citation": "International Journal of Computational Intelligence Research 13 (1), 101-111, 2017",
-        "num_citations": 42,
+        "num_citations": 27,
         "author_pub_id": "tRmAOagAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -84,28 +84,28 @@
         "title": "Classifying swahili smishing attacks for mobile money users: A machine-learning approach",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 83061-83074, 2022",
-        "num_citations": 29,
+        "num_citations": 32,
         "author_pub_id": "tRmAOagAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Detection of username enumeration attack on ssh protocol: Machine learning approach",
         "pub_year": "2021",
         "citation": "Symmetry 13 (11), 2192, 2021",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "tRmAOagAAAAJ:Wp0gIr-vW9MC"
-    },
-    {
-        "title": "FakeAP Detector: An Android-Based Client-Side Application for Detecting Wi-Fi Hotspot Spoofing",
-        "pub_year": "2022",
-        "citation": "IEEE Access 10, 13611-13623, 2022",
-        "num_citations": 5,
-        "author_pub_id": "tRmAOagAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "FakeAP Detector: An Android-Based Client-Side Application for Detecting Wi-Fi Hotspot Spoofing",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "tRmAOagAAAAJ:-f6ydRqryjwC"
+    },
+    {
+        "title": "FakeAP detector: an android-based client-side application for detecting Wi-Fi hotspot spoofing",
+        "pub_year": "2022",
+        "citation": "Ieee Access 10, 13611-13623, 2022",
+        "num_citations": 7,
+        "author_pub_id": "tRmAOagAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Investigating the Challenges Companies in Rwanda Face when Implementing Zero-Trust Network",
@@ -124,8 +124,8 @@
     {
         "title": "Low time complexity model for email spam detection using logistic regression",
         "pub_year": "2021",
-        "citation": "International Journal of Advanced Computer Science and Applications 12 (12), 2021",
-        "num_citations": 6,
+        "citation": "International Journal of Advanced Computer Science and Applications 12 (12 …, 2021",
+        "num_citations": 7,
         "author_pub_id": "tRmAOagAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -135,7 +135,7 @@
         "author_pub_id": "tRmAOagAAAAJ:e5wmG9Sq2KIC"
     },
     {
-        "title": "Natural Language Understanding for African Languages",
+        "title": "Natural language understanding for African languages",
         "pub_year": "2023",
         "citation": "4th Workshop on African Natural Language Processing, 2023",
         "num_citations": 3,
@@ -159,7 +159,7 @@
         "title": "Recent attack prevention techniques in web service applications",
         "pub_year": "2016",
         "citation": "2016 International Conference on Automatic Control and Dynamic Optimization …, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "tRmAOagAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -173,7 +173,7 @@
         "title": "Security of Cryptocurrencies in blockchain technology: State-of-art, challenges and future prospects",
         "pub_year": "2020",
         "citation": "Journal of Network and Computer Applications 163, 102635, 2020",
-        "num_citations": 263,
+        "num_citations": 265,
         "author_pub_id": "tRmAOagAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -194,7 +194,7 @@
         "title": "Smart4gap: Factors that influence smartphone security decisions in developing and developed countries",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 10th International Conference on Information …, 2018",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "tRmAOagAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -215,14 +215,14 @@
         "title": "UnPhishMe: Phishing attack detection by deceptive login simulation through an Android mobile app",
         "pub_year": "2017",
         "citation": "2017 12th Asia Joint Conference on Information Security (AsiaJCIS), 38-47, 2017",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "tRmAOagAAAAJ:9yKSN-GCB0IC"
     },
     {
-        "title": "Uncovering SMS spam in swahili text using deep learning approaches",
+        "title": "Uncovering sms spam in swahili text using deep learning approaches",
         "pub_year": "2024",
-        "citation": "IEEE Access, 2024",
-        "num_citations": 7,
+        "citation": "IEEE Access 12, 25164-25175, 2024",
+        "num_citations": 12,
         "author_pub_id": "tRmAOagAAAAJ:mB3voiENLucC"
     },
     {
@@ -236,7 +236,7 @@
         "title": "Web Server protection against application layer DDoS attacks using machine learning and traffic authentication",
         "pub_year": "2015",
         "citation": "2015 IEEE 39th Annual Computer Software and Applications Conference 3, 261-267, 2015",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "tRmAOagAAAAJ:u-x6o8ySG0sC"
     }
 ]

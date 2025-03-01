@@ -10,39 +10,32 @@
         "title": "A Multi-criteria based handover algorithm for vehicle-to-infrastructure communications",
         "pub_year": "2021",
         "citation": "Computer Networks 185, 107652, 2021",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "6y_k3EgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "A mobility-aware network selection method for vehicle-to-infrastructure communication over LTE-A multi-tier networks",
         "pub_year": "2017",
         "citation": "2017 International conference on information networking (ICOIN), 315-320, 2017",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "6y_k3EgAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "A network selection method for handover in vehicle-to-infrastructure communications in multi-tier networks",
         "pub_year": "2020",
         "citation": "Wireless Networks 26 (1), 387-401, 2020",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "6y_k3EgAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "A novel network selection mechanism for vehicle-to-infrastructure communication",
         "pub_year": "2016",
         "citation": "2016 IEEE 14th Intl Conf on Dependable, Autonomic and Secure Computing, 14th …, 2016",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "6y_k3EgAAAAJ:d1gkVwhDpl0C"
     },
     {
-        "title": "A trust-based routing framework for the internet of things",
-        "pub_year": "2017",
-        "citation": "Auckland University of Technology, 2017",
-        "num_citations": 5,
-        "author_pub_id": "6y_k3EgAAAAJ:ufrVoPGSRksC"
-    },
-    {
-        "title": "Adopting a Neuro-Fuzzy Logic Method for Fall Armyworm Detection and Monitoring Using C-Band Polarimetric Doppler Weather Radar with Field Verification",
+        "title": "Adopting a neuro-fuzzy logic method for fall armyworm detection and monitoring using C-band polarimetric Doppler weather radar with field verification",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Geoscience and Remote Sensing, 2024",
         "num_citations": 2,
@@ -83,9 +76,9 @@
         "author_pub_id": "6y_k3EgAAAAJ:hqOjcs7Dif8C"
     },
     {
-        "title": "Efficient handover methods for vehicle-to-infrastructure communications over heterogeneous wireless networks",
+        "title": "Efficient Handover Methods for Vehicle-to-Infrastructure Communications over Heterogeneous Wireless Networks",
         "pub_year": "2018",
-        "citation": "Auckland University of Technology, 2018",
+        "citation": "AUCKLAND UNIVERSITY OF TECHNOLOGY AUCKLAND, NEW ZEALAND, 2018",
         "num_citations": 0,
         "author_pub_id": "6y_k3EgAAAAJ:UeHWp8X0CEIC"
     },
@@ -167,7 +160,7 @@
         "author_pub_id": "6y_k3EgAAAAJ:YsMSGLbcyi4C"
     },
     {
-        "title": "Smart soil monitoring application (Case Study: Rwanda)",
+        "title": "Smart Soil Monitoring Application (Case Study: Rwanda)",
         "pub_year": "2021",
         "citation": "Advances in Information and Communication: Proceedings of the 2021 Future of …, 2021",
         "num_citations": 2,
@@ -181,10 +174,17 @@
         "author_pub_id": "6y_k3EgAAAAJ:kNdYIx-mwKoC"
     },
     {
+        "title": "Trust-Based Routing Framework for the Internet of Things",
+        "pub_year": "2017",
+        "citation": "Doctor of Philosophy, Department of Information Technology and Software …, 2017",
+        "num_citations": 5,
+        "author_pub_id": "6y_k3EgAAAAJ:ufrVoPGSRksC"
+    },
+    {
         "title": "Vehicle-to-infrastructure communication over multi-tier heterogeneous networks: A survey",
         "pub_year": "2017",
         "citation": "Computer networks 112, 144-166, 2017",
-        "num_citations": 128,
+        "num_citations": 133,
         "author_pub_id": "6y_k3EgAAAAJ:2osOgNQ5qMEC"
     }
 ]

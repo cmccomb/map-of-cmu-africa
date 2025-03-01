@@ -21,13 +21,6 @@
         "author_pub_id": "oyaImDQAAAAJ:NhqRSupF_l8C"
     },
     {
-        "title": "A Hybrid Approach for Personalized Recommender System Using Weighted Term Frequency Inverse Document Frequency",
-        "pub_year": "2018",
-        "citation": "JKUAT-COPAS, 2018",
-        "num_citations": 7,
-        "author_pub_id": "oyaImDQAAAAJ:bEWYMUwI8FkC"
-    },
-    {
         "title": "A K-Means Based Multi-level Text Clustering Algorithm for Retrieval of Research Information",
         "citation": "",
         "num_citations": 0,
@@ -69,6 +62,13 @@
         "author_pub_id": "oyaImDQAAAAJ:RHpTSmoSYBkC"
     },
     {
+        "title": "A hybrid approach for personalized recommender system using weighted term frequency inverse document frequency",
+        "pub_year": "2016",
+        "citation": "Int. J. Comp. Appl. Technol. Res 5, 764-774, 2016",
+        "num_citations": 7,
+        "author_pub_id": "oyaImDQAAAAJ:bEWYMUwI8FkC"
+    },
+    {
         "title": "A hybrid architecture to improve SOAP performance in web services communication",
         "pub_year": "2015",
         "citation": "",
@@ -107,7 +107,7 @@
         "title": "A model for predicting students’ academic performance using a hybrid of K-means and decision tree algorithms",
         "pub_year": "2015",
         "citation": "International Journal of Computer Applications Technology and Research 4 (9 …, 2015",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "oyaImDQAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -135,14 +135,14 @@
         "title": "A survey on privacy and security of Internet of Things",
         "pub_year": "2020",
         "citation": "Computer Science Review 38, 100312, 2020",
-        "num_citations": 211,
+        "num_citations": 214,
         "author_pub_id": "oyaImDQAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "A systematic approach to adaptive activity modeling and discovery in smart homes",
         "pub_year": "2011",
         "citation": "2011 4th International Conference on Biomedical Engineering and Informatics …, 2011",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "oyaImDQAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -180,17 +180,10 @@
         "author_pub_id": "oyaImDQAAAAJ:GnPB-g6toBAC"
     },
     {
-        "title": "An Image Denoising Technique Using Wavelet-Anisotropic Gaussian Filter-Based Denoising Convolutional Neural Network for CT Images",
-        "pub_year": "2023",
-        "citation": "Applied Sciences 13 (21), 12069, 2023",
-        "num_citations": 12,
-        "author_pub_id": "oyaImDQAAAAJ:p2g8aNsByqUC"
-    },
-    {
         "title": "An agent-mediated ontology-based approach for composite activity recognition in smart homes",
         "pub_year": "2013",
         "citation": "Journal of Universal Computer Science (JUCS) 19 (17), 2577-2597, 2013",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "oyaImDQAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -201,17 +194,24 @@
         "author_pub_id": "oyaImDQAAAAJ:5nxA0vEk-isC"
     },
     {
+        "title": "An image denoising technique using wavelet-anisotropic gaussian filter-based denoising convolutional neural network for CT images",
+        "pub_year": "2023",
+        "citation": "Applied sciences 13 (21), 12069, 2023",
+        "num_citations": 15,
+        "author_pub_id": "oyaImDQAAAAJ:p2g8aNsByqUC"
+    },
+    {
         "title": "An ontology-based hybrid approach to activity modeling for smart homes",
         "pub_year": "2013",
         "citation": "IEEE Transactions on human-machine systems 44 (1), 92-105, 2013",
-        "num_citations": 195,
+        "num_citations": 191,
         "author_pub_id": "oyaImDQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Combining ontological and temporal formalisms for composite activity modelling and recognition in smart homes",
         "pub_year": "2014",
         "citation": "Future Generation Computer Systems 39, 29-43, 2014",
-        "num_citations": 109,
+        "num_citations": 108,
         "author_pub_id": "oyaImDQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -246,14 +246,14 @@
         "title": "Detecting Phishing Attacks Using Feature Importance-Based Machine Learning Approach",
         "pub_year": "2023",
         "citation": "2023 IEEE AFRICON, 2023",
-        "num_citations": 4,
+        "num_citations": 2,
         "author_pub_id": "oyaImDQAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Dynamic sensor data segmentation for real-time knowledge-driven activity recognition",
         "pub_year": "2014",
         "citation": "Pervasive and Mobile Computing 10, 155-172, 2014",
-        "num_citations": 220,
+        "num_citations": 217,
         "author_pub_id": "oyaImDQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -274,8 +274,15 @@
         "title": "Feature selection for classification using principal component analysis and information gain",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications 174, 114765, 2021",
-        "num_citations": 294,
+        "num_citations": 298,
         "author_pub_id": "oyaImDQAAAAJ:3s1wT3WcHBgC"
+    },
+    {
+        "title": "Framework for Computer Aided Education and Training for Hearing Impaired Learners",
+        "pub_year": "2017",
+        "citation": "Framework 169 (2), 2017",
+        "num_citations": 1,
+        "author_pub_id": "oyaImDQAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Framework for improving usability of learning management systems by integrating pedagogical agent",
@@ -294,7 +301,7 @@
     {
         "title": "Hybrid IEEE 802.15. 6 wireless body area networks interference mitigation model for high mobility interference scenarios",
         "pub_year": "2018",
-        "citation": "Wireless Engineering and Technology, 2018",
+        "citation": "Wireless Engineering and Technology 9 (02), 34, 2018",
         "num_citations": 20,
         "author_pub_id": "oyaImDQAAAAJ:TQgYirikUcIC"
     },
@@ -308,14 +315,14 @@
         "title": "Image representation using RGB color space",
         "pub_year": "2014",
         "citation": "Int. J. Innov. Res. Dev 3 (8), 2014",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "oyaImDQAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Impact Analysis of Solutions for Chronic Disease Prevention and Management: 10th International Conference on Smart Homes and Health Telematics, ICOST 2012, Artimino, Tuscany …",
         "pub_year": "2012",
         "citation": "Springer, 2012",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "oyaImDQAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -325,8 +332,9 @@
         "author_pub_id": "oyaImDQAAAAJ:l7t_Zn2s7bgC"
     },
     {
-        "title": "Improved Collaborative Filtering Recommender System Based on Hybrid Similarity Measures",
-        "citation": "",
+        "title": "Improved Collaborative Filtering Recommender System Based on Hybrid Similarity Measures.",
+        "pub_year": "2025",
+        "citation": "International Arab Journal of Information Technology (IAJIT) 22 (1), 2025",
         "num_citations": 0,
         "author_pub_id": "oyaImDQAAAAJ:K3LRdlH-MEoC"
     },
@@ -354,21 +362,21 @@
         "title": "Jumping finite automata for tweet comprehension",
         "pub_year": "2019",
         "citation": "2019 International Multidisciplinary Information Technology and Engineering …, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "oyaImDQAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Lexicon‐pointed hybrid N‐gram Features Extraction Model (LeNFEM) for sentence level sentiment analysis",
         "pub_year": "2021",
         "citation": "Engineering Reports 3 (8), e12374, 2021",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "oyaImDQAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Matrix factorization techniques for context-aware collaborative filtering recommender systems: A survey",
         "pub_year": "2018",
         "citation": "Canadian Center of Science and Education, 2018",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "oyaImDQAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -382,7 +390,7 @@
         "title": "Modeling the risk of invasion and spread of Tuta absoluta in Africa",
         "pub_year": "2016",
         "citation": "Ecological Complexity 28, 77-93, 2016",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "oyaImDQAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -417,7 +425,7 @@
         "title": "Ontology-enabled activity learning and model evolution in smart homes",
         "pub_year": "2010",
         "citation": "Ubiquitous Intelligence and Computing: 7th International Conference, UIC …, 2010",
-        "num_citations": 21,
+        "num_citations": 19,
         "author_pub_id": "oyaImDQAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -430,7 +438,7 @@
     {
         "title": "RFID-based location based services framework for alerting on black spots for accident prevention",
         "pub_year": "2021",
-        "citation": "Egypt. Informatics J., no. xxxx, 2021",
+        "citation": "Egyptian Informatics Journal, 2021",
         "num_citations": 7,
         "author_pub_id": "oyaImDQAAAAJ:u_35RYKgDlwC"
     },
@@ -438,21 +446,21 @@
         "title": "Scoped class cohesion metric for software process assessment",
         "pub_year": "2016",
         "citation": "International Journal of Computer Science Issues (IJCSI) 13 (2), 12, 2016",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "oyaImDQAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (3), 1445, 2023",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "oyaImDQAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Sentiment analysis on social media tweets using dimensionality reduction and natural language processing",
         "pub_year": "2023",
         "citation": "Engineering Reports 5 (3), e12579, 2023",
-        "num_citations": 30,
+        "num_citations": 34,
         "author_pub_id": "oyaImDQAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -473,7 +481,7 @@
         "title": "Techniques for Smart Traffic Control: An In-depth Review",
         "pub_year": "2015",
         "citation": "International Journal of Computer Applications Technology and Research 4 (7 …, 2015",
-        "num_citations": 58,
+        "num_citations": 54,
         "author_pub_id": "oyaImDQAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -484,11 +492,17 @@
         "author_pub_id": "oyaImDQAAAAJ:rO6llkc54NcC"
     },
     {
-        "title": "Telecommuting model for small and medium enterprises (SMES) in Kenya",
+        "title": "Telecommuting model for small and medium enterprises (Smes) in Kenya",
         "pub_year": "2016",
         "citation": "European Journal of Computer Science and Information Technology 4 (4), 13-19, 2016",
         "num_citations": 7,
         "author_pub_id": "oyaImDQAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "The International Arab Journal of Information Technology (IAJIT)",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "oyaImDQAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "The use of social networking sites for learning in institutions of higher learning",
@@ -529,7 +543,7 @@
         "title": "Ubiquitous Computing and Ambient Intelligence: 6th International Conference, UCAmI 2012, Vitoria-Gasteiz, Spain, December 3-5, 2012, Proceedings",
         "pub_year": "2012",
         "citation": "Springer, 2012",
-        "num_citations": 3,
+        "num_citations": 7,
         "author_pub_id": "oyaImDQAAAAJ:SP6oXDckpogC"
     },
     {
@@ -543,7 +557,7 @@
         "title": "Ubiquitous Computing and Ambient Intelligence: Personalisation and User Adapted Services: 8th International Conference, UCAmI 2014, Belfast, UK, December 2-5, 2014, Proceedings",
         "pub_year": "2014",
         "citation": "Springer, 2014",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "oyaImDQAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -571,7 +585,7 @@
         "title": "Using Naïve Bayes algorithm in detection of hate tweets",
         "pub_year": "2018",
         "citation": "International Journal of Scientific and Research Publications 8 (3), 99-107, 2018",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "oyaImDQAAAAJ:NMxIlDl6LWMC"
     },
     {
