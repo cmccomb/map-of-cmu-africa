@@ -1,15 +1,22 @@
 [
     {
-        "title": "A Data Management Model for Malaria Control: A Case of Rwanda",
+        "title": "A Comparative Analysis of Deep Learning Models for Malaria Plasmodium Classification",
+        "pub_year": "2024",
+        "citation": "2024 31st IEEE International Conference on Electronics, Circuits and Systems …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "A data management model for Malaria control: a case of Rwanda",
         "pub_year": "2023",
         "citation": "2023 IEEE AFRICON, 1-6, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "rVFrmkQAAAAJ:W7OEmFMy1HYC"
     },
     {
-        "title": "A Dependable Digital System Model for Malaria Monitoring",
+        "title": "A dependable digital system model for malaria monitoring",
         "pub_year": "2022",
-        "citation": "Preprints, 2022",
+        "citation": "",
         "num_citations": 2,
         "author_pub_id": "rVFrmkQAAAAJ:zYLM7Y9cAGgC"
     },
@@ -38,7 +45,7 @@
         "title": "Binary Segmentation of Malaria Parasites Using U-Net Segmentation Approach: A Case of Rwanda",
         "pub_year": "2024",
         "citation": "International Congress on Information and Communication Technology, 163-176, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "rVFrmkQAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -56,7 +63,7 @@
         "author_pub_id": "rVFrmkQAAAAJ:9yKSN-GCB0IC"
     },
     {
-        "title": "ECG-Signals-based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers",
+        "title": "Ecg-signals-based heartbeat classification: A comparative study of artificial neural network and support vector machine classifiers",
         "pub_year": "2024",
         "citation": "2024 IEEE 22nd World Symposium on Applied Machine Intelligence and …, 2024",
         "num_citations": 4,
@@ -70,11 +77,24 @@
         "author_pub_id": "rVFrmkQAAAAJ:d1gkVwhDpl0C"
     },
     {
-        "title": "IT-Aided Forecasting Model for Malaria Spread for the Developing World",
+        "title": "Intelligent malaria detection and species classification: A case of rwanda",
+        "pub_year": "2024",
+        "citation": "International Congress on Information and Communication Technology, 507-520, 2024",
+        "num_citations": 2,
+        "author_pub_id": "rVFrmkQAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "It-aided forecasting model for malaria spread for the developing world",
         "pub_year": "2023",
         "citation": "2023 Conference on Information Communications Technology and Society (ICTAS …, 2023",
         "num_citations": 2,
         "author_pub_id": "rVFrmkQAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "Mask R-CNN for Automated Multi-Species Malaria Parasite Detection",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "rVFrmkQAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Mining user behavior in social recommender systems",
@@ -103,5 +123,12 @@
         "citation": "International Journal on Artificial Intelligence Tools 28 (06), 1960004, 2019",
         "num_citations": 6,
         "author_pub_id": "rVFrmkQAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "The use of YOLOv5 as a malaria detection model for the developing world",
+        "pub_year": "2024",
+        "citation": "International Congress on Information and Communication Technology, 615-626, 2024",
+        "num_citations": 2,
+        "author_pub_id": "rVFrmkQAAAAJ:LkGwnXOMwfcC"
     }
 ]

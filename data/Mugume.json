@@ -27,6 +27,13 @@
         "author_pub_id": "LMW7_-YAAAAJ:MXK_kJrjxJIC"
     },
     {
+        "title": "A smart environmental monitoring system for data centres using IOT and machine learning",
+        "pub_year": "2023",
+        "citation": "NM-AIST, 2023",
+        "num_citations": 2,
+        "author_pub_id": "LMW7_-YAAAAJ:ULOm3_A8WrAC"
+    },
+    {
         "title": "A spatio-temporal sleep mode approach to improve energy efficiency in small cell DenseNets",
         "pub_year": "2021",
         "citation": "SAIEE Africa Research Journal 112 (3), 134-141, 2021",
@@ -37,7 +44,7 @@
         "title": "A survey of 5G for rural broadband connectivity",
         "pub_year": "2021",
         "citation": "2021 IST-Africa Conference (IST-Africa), 1-10, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "LMW7_-YAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -53,6 +60,13 @@
         "citation": "2015 IEEE 26th Annual International Symposium on Personal, Indoor, and …, 2015",
         "num_citations": 1,
         "author_pub_id": "LMW7_-YAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "Cooperative spectrum sensing for cognitive radio",
+        "pub_year": "2013",
+        "citation": "PQDT-UK & Ireland, 2013",
+        "num_citations": 5,
+        "author_pub_id": "LMW7_-YAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Cooperative spectrum sensing for green cognitive femtocell network",
@@ -90,8 +104,8 @@
     },
     {
         "title": "Green Communications: Large vs Small Cell Deployment",
-        "pub_year": "2015",
-        "citation": "e-Infrastructure and e-Services for Developing Countries: 6th International …, 2015",
+        "pub_year": "2014",
+        "citation": "International Conference on e-Infrastructure and e-Services for Developing …, 2014",
         "num_citations": 1,
         "author_pub_id": "LMW7_-YAAAAJ:9yKSN-GCB0IC"
     },

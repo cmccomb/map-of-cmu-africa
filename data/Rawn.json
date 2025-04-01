@@ -23,7 +23,7 @@
         "title": "A market-based transmission planning for HVDC grid—case study of the North Sea",
         "pub_year": "2014",
         "citation": "IEEE Transactions on power systems 30 (2), 784-794, 2014",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "wVMHcqoAAAAJ:4DMP91E08xMC"
     },
     {
@@ -65,7 +65,7 @@
         "title": "Analysis of North Sea offshore wind power variability",
         "pub_year": "2014",
         "citation": "Resources 3 (2), 454-470, 2014",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "wVMHcqoAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -121,7 +121,7 @@
         "title": "Coordinated active power-dependent voltage regulation in distribution grids with PV systems",
         "pub_year": "2014",
         "citation": "IEEE Transactions on power delivery 29 (3), 1454-1464, 2014",
-        "num_citations": 291,
+        "num_citations": 294,
         "author_pub_id": "wVMHcqoAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -264,7 +264,7 @@
         "title": "Investigations into the transformer inrush current problem",
         "pub_year": "2018",
         "citation": "Nigerian Journal of Technology 37 (4), 1058-1064, 2018",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "wVMHcqoAAAAJ:maZDTaKrznsC"
     },
     {
@@ -292,7 +292,7 @@
         "title": "Methodologies to determine operating reserves due to increased wind power",
         "pub_year": "2012",
         "citation": "IEEE transactions on sustainable energy 3 (4), 713-723, 2012",
-        "num_citations": 407,
+        "num_citations": 408,
         "author_pub_id": "wVMHcqoAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -345,6 +345,13 @@
         "author_pub_id": "wVMHcqoAAAAJ:dhFuZR0502QC"
     },
     {
+        "title": "Optimizing Grid Performance through Vehicle-to-Grid Integration: A Comprehensive Review",
+        "pub_year": "2024",
+        "citation": "2024 IEEE PES 16th Asia-Pacific Power and Energy Engineering Conference …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "wVMHcqoAAAAJ:yD5IFk8b50cC"
+    },
+    {
         "title": "Phase current asymmetry on the double-circuit very high voltage overhead transmission line",
         "pub_year": "2016",
         "citation": "2016 17th International Scientific Conference on Electric Power Engineering …, 2016",
@@ -355,7 +362,7 @@
         "title": "Planning for electrification: on-and off-grid considerations in Sub-Saharan Africa",
         "pub_year": "2017",
         "citation": "The Institute of Development Studies and Partner Organisations, 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "wVMHcqoAAAAJ:j3f4tGmQtD8C"
     },
     {

@@ -24,14 +24,14 @@
         "title": "A demographic perspective of smartphone security and its redesigned notifications",
         "pub_year": "2019",
         "citation": "Journal of Information Processing 27, 773-786, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "tRmAOagAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "A mechanism for prevention of flooding based DDoS attack",
         "pub_year": "2017",
         "citation": "International Journal of Computational Intelligence Research 13 (1), 101-111, 2017",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "tRmAOagAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "An Empirical Approach to Phishing Countermeasures through Smart Glasses and Validation Agents",
         "pub_year": "2019",
         "citation": "IEEE Access, 2019",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "tRmAOagAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -91,7 +91,7 @@
         "title": "Detection of username enumeration attack on ssh protocol: Machine learning approach",
         "pub_year": "2021",
         "citation": "Symmetry 13 (11), 2192, 2021",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "tRmAOagAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -125,7 +125,7 @@
         "title": "Low time complexity model for email spam detection using logistic regression",
         "pub_year": "2021",
         "citation": "International Journal of Advanced Computer Science and Applications 12 (12 …, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "tRmAOagAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -173,7 +173,7 @@
         "title": "Security of Cryptocurrencies in blockchain technology: State-of-art, challenges and future prospects",
         "pub_year": "2020",
         "citation": "Journal of Network and Computer Applications 163, 102635, 2020",
-        "num_citations": 265,
+        "num_citations": 275,
         "author_pub_id": "tRmAOagAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -215,14 +215,14 @@
         "title": "UnPhishMe: Phishing attack detection by deceptive login simulation through an Android mobile app",
         "pub_year": "2017",
         "citation": "2017 12th Asia Joint Conference on Information Security (AsiaJCIS), 38-47, 2017",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "tRmAOagAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Uncovering sms spam in swahili text using deep learning approaches",
         "pub_year": "2024",
         "citation": "IEEE Access 12, 25164-25175, 2024",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "tRmAOagAAAAJ:mB3voiENLucC"
     },
     {
@@ -236,7 +236,7 @@
         "title": "Web Server protection against application layer DDoS attacks using machine learning and traffic authentication",
         "pub_year": "2015",
         "citation": "2015 IEEE 39th Annual Computer Software and Applications Conference 3, 261-267, 2015",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "tRmAOagAAAAJ:u-x6o8ySG0sC"
     }
 ]

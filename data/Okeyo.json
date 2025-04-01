@@ -21,6 +21,13 @@
         "author_pub_id": "oyaImDQAAAAJ:NhqRSupF_l8C"
     },
     {
+        "title": "A Hybrid Approach for Personalized Recommender System Using Weighted Term Frequency Inverse Document Frequency",
+        "pub_year": "2018",
+        "citation": "JKUAT-COPAS, 2018",
+        "num_citations": 7,
+        "author_pub_id": "oyaImDQAAAAJ:bEWYMUwI8FkC"
+    },
+    {
         "title": "A K-Means Based Multi-level Text Clustering Algorithm for Retrieval of Research Information",
         "citation": "",
         "num_citations": 0,
@@ -62,13 +69,6 @@
         "author_pub_id": "oyaImDQAAAAJ:RHpTSmoSYBkC"
     },
     {
-        "title": "A hybrid approach for personalized recommender system using weighted term frequency inverse document frequency",
-        "pub_year": "2016",
-        "citation": "Int. J. Comp. Appl. Technol. Res 5, 764-774, 2016",
-        "num_citations": 7,
-        "author_pub_id": "oyaImDQAAAAJ:bEWYMUwI8FkC"
-    },
-    {
         "title": "A hybrid architecture to improve SOAP performance in web services communication",
         "pub_year": "2015",
         "citation": "",
@@ -107,7 +107,7 @@
         "title": "A model for predicting students’ academic performance using a hybrid of K-means and decision tree algorithms",
         "pub_year": "2015",
         "citation": "International Journal of Computer Applications Technology and Research 4 (9 …, 2015",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "oyaImDQAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -135,7 +135,7 @@
         "title": "A survey on privacy and security of Internet of Things",
         "pub_year": "2020",
         "citation": "Computer Science Review 38, 100312, 2020",
-        "num_citations": 214,
+        "num_citations": 226,
         "author_pub_id": "oyaImDQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -197,21 +197,21 @@
         "title": "An image denoising technique using wavelet-anisotropic gaussian filter-based denoising convolutional neural network for CT images",
         "pub_year": "2023",
         "citation": "Applied sciences 13 (21), 12069, 2023",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "oyaImDQAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "An ontology-based hybrid approach to activity modeling for smart homes",
         "pub_year": "2013",
         "citation": "IEEE Transactions on human-machine systems 44 (1), 92-105, 2013",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "oyaImDQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Combining ontological and temporal formalisms for composite activity modelling and recognition in smart homes",
         "pub_year": "2014",
         "citation": "Future Generation Computer Systems 39, 29-43, 2014",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "oyaImDQAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -253,7 +253,7 @@
         "title": "Dynamic sensor data segmentation for real-time knowledge-driven activity recognition",
         "pub_year": "2014",
         "citation": "Pervasive and Mobile Computing 10, 155-172, 2014",
-        "num_citations": 217,
+        "num_citations": 218,
         "author_pub_id": "oyaImDQAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "Feature selection for classification using principal component analysis and information gain",
         "pub_year": "2021",
         "citation": "Expert Systems with Applications 174, 114765, 2021",
-        "num_citations": 298,
+        "num_citations": 324,
         "author_pub_id": "oyaImDQAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -453,14 +453,14 @@
         "title": "Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network",
         "pub_year": "2023",
         "citation": "Applied Sciences 13 (3), 1445, 2023",
-        "num_citations": 102,
+        "num_citations": 111,
         "author_pub_id": "oyaImDQAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Sentiment analysis on social media tweets using dimensionality reduction and natural language processing",
         "pub_year": "2023",
         "citation": "Engineering Reports 5 (3), e12579, 2023",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "oyaImDQAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -585,7 +585,7 @@
         "title": "Using Naïve Bayes algorithm in detection of hate tweets",
         "pub_year": "2018",
         "citation": "International Journal of Scientific and Research Publications 8 (3), 99-107, 2018",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "oyaImDQAAAAJ:NMxIlDl6LWMC"
     },
     {

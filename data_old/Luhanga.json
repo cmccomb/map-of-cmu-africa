@@ -17,7 +17,7 @@
         "title": "A comparative study of smartphone-user security perception and preference towards redesigned security notifications",
         "pub_year": "2018",
         "citation": "Proceedings of the Second African Conference for Human Computer Interaction …, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "KZ5QmxQAAAAJ:hMod-77fHWUC"
     },
     {
@@ -28,10 +28,10 @@
         "author_pub_id": "KZ5QmxQAAAAJ:cFHS6HbyZ2cC"
     },
     {
-        "title": "A multi-modal wireless sensor system for river monitoring: A case for Kikuletwa river floods in Tanzania",
+        "title": "A multi-modal wireless sensor system for river monitoring: a case for kikuletwa river floods in Tanzania",
         "pub_year": "2023",
         "citation": "Sensors 23 (8), 4055, 2023",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "KZ5QmxQAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "A review of characterization approaches for smallholder farmers: Towards predictive farm typologies",
         "pub_year": "2019",
         "citation": "The Scientific World Journal 2019 (1), 6121467, 2019",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "KZ5QmxQAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -58,7 +58,7 @@
     {
         "title": "An empirical approach to phishing countermeasures through smart glasses and validation agents",
         "pub_year": "2019",
-        "citation": "IEEE Access 7, 130758-130771, 2019",
+        "citation": "Ieee Access 7, 130758-130771, 2019",
         "num_citations": 29,
         "author_pub_id": "KZ5QmxQAAAAJ:SeFeTyx0c_EC"
     },
@@ -77,17 +77,10 @@
         "author_pub_id": "KZ5QmxQAAAAJ:u_35RYKgDlwC"
     },
     {
-        "title": "Assessment of how users perceive the usage of biometric technology applications",
-        "pub_year": "2022",
-        "citation": "Recent Advances in Biometrics, 2022",
-        "num_citations": 7,
-        "author_pub_id": "KZ5QmxQAAAAJ:pyW8ca7W8N0C"
-    },
-    {
         "title": "Big data analytics framework for childhood infectious disease surveillance and response system using modified MapReduce algorithm",
         "pub_year": "2021",
         "citation": "International Journal of Advanced Computer Science and Applications, 2021",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "KZ5QmxQAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -149,35 +142,35 @@
         "title": "Evaluation of users’ knowledge and concerns of biometric passport systems",
         "pub_year": "2019",
         "citation": "Data 4 (2), 58, 2019",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "KZ5QmxQAAAAJ:JV2RwH3_ST0C"
-    },
-    {
-        "title": "Extreme Rainfall Event Classification Using Machine Learning for Kikuletwa River Floods",
-        "pub_year": "2023",
-        "citation": "Water 15 (6), 1021, 2023",
-        "num_citations": 6,
-        "author_pub_id": "KZ5QmxQAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Extreme Rainfall Events Detection Using Machine Learning for Kikuletwa River Floods in Northern Tanzania",
         "pub_year": "2023",
-        "citation": "Preprints, 2023",
-        "num_citations": 0,
+        "citation": "",
+        "num_citations": 1,
         "author_pub_id": "KZ5QmxQAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+        "title": "Extreme rainfall event classification using machine learning for Kikuletwa river floods",
+        "pub_year": "2023",
+        "citation": "Water 15 (6), 1021, 2023",
+        "num_citations": 7,
+        "author_pub_id": "KZ5QmxQAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Happyinu: exploring how to use games and extrinsic rewards for consistent food tracking behavior",
         "pub_year": "2016",
         "citation": "2016 Ninth International Conference on Mobile Computing and Ubiquitous …, 2016",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "KZ5QmxQAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Identifying and evaluating user requirements for smartphone group fitness applications",
         "pub_year": "2018",
         "citation": "IEEE Access 6, 3256-3269, 2018",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "KZ5QmxQAAAAJ:blknAaTinKkC"
     },
     {
@@ -191,7 +184,7 @@
         "title": "Machine learning model for imbalanced cholera dataset in Tanzania",
         "pub_year": "2019",
         "citation": "The Scientific World Journal 2019 (1), 9397578, 2019",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "KZ5QmxQAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -205,14 +198,14 @@
         "title": "Monitoring Kikuletwa river levels in northern Tanzania: A data set unlocking insights for effective flood early warning systems",
         "pub_year": "2023",
         "citation": "Data in Brief 49, 109395, 2023",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "KZ5QmxQAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Navigating the Kikuletwa River Levels with Deep Learning: An LSTM-Based Approach to Forecasting",
         "pub_year": "2023",
         "citation": "2023 IEEE AFRICON, 1-3, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "KZ5QmxQAAAAJ:f2IySw72cVMC"
     },
     {
@@ -233,7 +226,7 @@
         "title": "Research data management among researchers in higher learning institutions of Sub-Saharan Africa",
         "pub_year": "2020",
         "citation": "Handbook of research on connecting research methods for information science …, 2020",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "KZ5QmxQAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -254,7 +247,7 @@
         "title": "Smart gyms need smart mirrors: design of a smart gym concept through contextual inquiry",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 ACM International Joint Conference on Pervasive and …, 2017",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "KZ5QmxQAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -268,7 +261,7 @@
         "title": "Smart4gap: Factors that influence smartphone security decisions in developing and developed countries",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 10th International Conference on Information …, 2018",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "KZ5QmxQAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -286,7 +279,7 @@
         "author_pub_id": "KZ5QmxQAAAAJ:ns9cj8rnVeAC"
     },
     {
-        "title": "The application of online and blended learning during outbreaks, epidemics and pandemics: The case of higher education institutions (HEIs)",
+        "title": "The application of online and blended learning during outbreaks, epidemics and pandemics: the case of higher education institutions (HEIs)",
         "pub_year": "2023",
         "citation": "Pandemic Pedagogy: Preparedness in Uncertain Times 49, 147-161, 2023",
         "num_citations": 4,
@@ -296,7 +289,7 @@
         "title": "The challenges of adopting M-learning assistive technologies for visually impaired learners in higher learning institution in Tanzania",
         "pub_year": "2020",
         "citation": "International Journal of Emerging Technologies in Learning (iJET), 2020",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "KZ5QmxQAAAAJ:rO6llkc54NcC"
     },
     {
@@ -319,5 +312,12 @@
         "citation": "arXiv preprint arXiv:2311.00830, 2023",
         "num_citations": 1,
         "author_pub_id": "KZ5QmxQAAAAJ:a0OBvERweLwC"
+    },
+    {
+        "title": "the Usage of Biometric Technology Applications",
+        "pub_year": "2022",
+        "citation": "Recent advances in biometrics, 45, 2022",
+        "num_citations": 7,
+        "author_pub_id": "KZ5QmxQAAAAJ:pyW8ca7W8N0C"
     }
 ]
